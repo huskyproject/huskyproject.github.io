@@ -26,8 +26,7 @@
         </td>
         <td align="justify">
            Week prerelease (release candidate 3) submitted: see binaries
-           at <a href=http://hpt-bin.boom.ru>http://hpt-bin.boom.ru</a> and
-           (after Oct 17 2002) at <a href=http://sourceforge.net/projects/husky>
+           at <a href=http://sourceforge.net/projects/husky>
            http://sourceforge.net/projects/husky</a>
         </td>
 
@@ -57,7 +56,7 @@
           <strong>03/10/2002</strong>
         </td>
         <td align="justify">
-           Documentation suite starts: 
+           Documentation suite starts:
            <a href=https://sourceforge.net/docman/index.php?group_id=1332>
              Project: husky: Document Manager</a>
         </td>
