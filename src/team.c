@@ -98,7 +98,7 @@
         </td>
 
         <td><b>Age:</b></td>
-        <td>21</td>
+        <td>22</td>
       <tr>
         <td><b>Country:</b></td>
         <td>Germany</td>

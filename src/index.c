@@ -6,6 +6,14 @@
 
       <tr>
         <td align="center" valign="top">
+          <strong>18/07/2000</strong>
+        </td>
+        <td align="justify">
+          Release Day of hpt, fidoconf, smapi, nltools, htick, sqpack, huskybse!
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top">
           <strong>17/04/2000</strong>
         </td>
         <td align="justify">
@@ -83,6 +91,6 @@
       gated mailinglist).
     </blockquote>
           
-    <small>Last update: 01/04/2000</small>
+    <small>Last update: 18/07/2000</small>
 
 #include "bottom.h"    

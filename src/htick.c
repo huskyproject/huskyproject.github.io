@@ -15,6 +15,7 @@
         Dependencies:
         <ul>
           <li>htick-current requires fidoconf-current, smapi-current and huskybse-current from the same day</li>
+          <li>htick-0.9-stable requires fidoconf-0.10-stable, smapi-1.6.4-stable and huskybse-0.1</li>
         </ul>
       </blockquote>
 
@@ -22,8 +23,9 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td>n/a</td>
-            <td>current release</td>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9.tar.gz"><tt>htick-0.9.tar.gz</tt></a>
+            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9.zip"><tt>htick-0.9.zip</tt></a></td>
+            <td>current release: 0.9 stable source code</td>
           </tr>
           <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/htick-latest.tar.gz"><tt>htick-latest.tar.gz</tt></a></td>
@@ -38,6 +40,6 @@
       </blockquote>
 
 
-      <small>Last update: 14/06/2000</small>
+      <small>Last update: 18/07/2000</small>
 
 #include "bottom.h"

@@ -17,6 +17,7 @@
         Dependencies:
         <ul>
           <li>fidoconf-current requries smapi-current and huskybse-current from the same day</li>
+	<li>fidoconfig 0.10-stable requires smapi 1.6.4-stable and huskybse-0.1</li>
           <li>fidoconfig 0.9 requires smapi 1.6.2</li>
         </ul>
       </blockquote>
@@ -25,8 +26,10 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td>n/a</td>
-            <td>current release</td>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10.tar.gz"><tt>fidoconfig-0.10.tar.gz</tt></a>
+	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10.zip"><tt>fidoconfig-0.10.zip</tt></a>
+	    </td>
+            <td>current release: fidoconfig 0.10 stable source code</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.9.tar.gz"><tt>fidoconfig-0.9.tar.gz</tt></a></td>
@@ -46,6 +49,6 @@
       </blockquote>
 
 
-      <small>Last update: 14/06/2000</small>
+      <small>Last update: 18/07/2000</small>
 
 #include "bottom.h"
