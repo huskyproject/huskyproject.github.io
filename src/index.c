@@ -7,7 +7,7 @@
       <tr>
         <td align="center" valign="top">
           <strong>18/09/2000</strong>
-        <td>
+        </td>
         <td align="justify">
            diskpoll 0.1.3 (all platforms); nltools 1.1a for DOS
         </td>
