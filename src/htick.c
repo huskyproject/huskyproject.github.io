@@ -23,8 +23,8 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9.tar.gz"><tt>htick-0.9.tar.gz</tt></a>
-            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9.zip"><tt>htick-0.9.zip</tt></a></td>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-src.tar.gz"><tt>htick-0.9-src.tar.gz</tt></a><br>
+            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-src.zip"><tt>htick-0.9-src.zip</tt></a></td>
             <td>current release: 0.9 stable source code</td>
           </tr>
           <tr valign="top">
