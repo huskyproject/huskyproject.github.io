@@ -7,28 +7,31 @@
       </center>
 
       <blockquote>
-      <p>Please note: Today all Packages are ONLY compiled for the unstable
-      Debian, Sid. My second PC needs a new Mainboard (Sockel 7, for AMD K6/2 450MHz).
-      If i have a new one (not in the near future, i have NO money), i will also
-      build for the stable Debian.</p>
-      
-      <p>25.04.2001: In the next Days there are Potato Packages !</p>
-
       <p>To get Debian-Packages for the <a href="stable.html">Stable</a>
       Husky versions, you have to enter the following line into your
       <EM>/etc/apt/sources.list</EM> and run apt-get update (or select
       the Update-Menu in dselect).</p>
       
       <p><CODE>
-      deb ftp://goliathbbs.dnsalias.net/debian/huskystable unstable main
+      deb ftp://goliathbbs.dnsalias.net/debian/huskystable $DIST$ main
       </CODE></p>
       
       <p>To get the Source for this Packages you enter the following line too:</p>
 
       <p><CODE>
-      deb-src ftp://goliathbbs.dnsalias.net/debian/huskystable unstable main
+      deb-src ftp://goliathbbs.dnsalias.net/debian/huskystable $DIST$ main
       </CODE></p>
-
+      
+      <p>Replace $DIST$ with stable for POTATO or unstable for SID!! </p>
+      
+      <p><center><STRONG>ACHTUNG ! WARNING ! ACHTUNG ! WARNING !</STRONG></center>
+      <br>
+      Do NOT, NEVER, NEVER, NEVER insert both, stable and unstable into
+      your sources.list. NEVER ! It will DAMAGE your System !
+      The Packages in Potato have the same Version-Numbers as in Sid, sometimes
+      the Numbers could get higher. So, Do NOT use both, stable and unstable
+      at the same time !
+      </p>
 
       <p>If you cant live without the newest versions, or you just want to
       test/have the new functions of the programs, you need the latest Husky
@@ -57,6 +60,6 @@
 
       </blockquote>
 
-      <small>Last update: 12/04/2001</small>
+      <small>Last update: 26/04/2001</small>
 
 #include "bottom.h"
