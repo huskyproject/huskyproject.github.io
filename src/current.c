@@ -26,7 +26,7 @@
       <p>Current Husky is available as follows:
 
       <ul>
-        <li>via http from <a href="http://cvs.physcip.uni-stuttgart.de/cvs2">here</a>.
+        <li>via http from <a href="/cvs2">here</a>.
         <li>via filerequest at 2:240/5034, filenames: husky/<i>module</i>-latest.tar.gz, 
           husky/<i>module-YYMMDD</i>.tar.gz. and husky/<i>module-YYMMDD</i>.diff.gz. 
         <li>via mailinglist: (husky-diffs@lists.sourceforge.net). You can
@@ -44,10 +44,6 @@
 
       <h3>CVS Server</h3>
       <blockquote>
-        If you are a developer and want write access to our cvs-server, send a netmail to 2:2476/418
-        or an email to
-        <a href="mailto:tobi@physcip.uni-stuttgart.de?subject=write%20access%20to%20Husky%20CVS%20Server">Tobias
-      Ernst</a> with your real name and Fido or othernet-aka.
       <a href="cvs.html">Read more about our cvs-server...</a><br>
       </blockquote>
 

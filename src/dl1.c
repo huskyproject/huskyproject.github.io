@@ -48,7 +48,7 @@
       tools.</p>
 
       <p>For Debian GNU/Linux Users there are Packages available now.
-      Take a look <a href="debian.html">here.</a></p>
+      Take a look <a href="debian/">here.</a></p>
       
       </blockquote>
 
