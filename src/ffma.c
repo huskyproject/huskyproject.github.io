@@ -24,7 +24,7 @@
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
           	<td>
-          		<a href="http://www.uni-duisburg.de/~sa519bu/ffma/ffma-0.08.00-src.zip"><tt>ffma-0.08.00-src.zip</tt></a>
+          		<a href="http://www.open4me.de/ffma/ffma-0.08.00-src.zip"><tt>ffma-0.08.00-src.zip</tt></a>
 	 	    </td>
 	        <td>
             	current release:<br>ffma 0.08.00-beta<br>source code
@@ -33,7 +33,7 @@
           
           <tr valign="top">
             <td>
-            	<a href="http://www.uni-duisburg.de/~sa519bu/ffma/ffma-0.08.00-lnx.zip"><tt>ffma-0.08.00-lnx.zip</tt></a>
+            	<a href="http://www.open4me.de/ffma/ffma-0.08.00-lnx.zip"><tt>ffma-0.08.00-lnx.zip</tt></a>
   	        </td>
             <td>
             	current release:<br> ffma 0.08.00-beta<br>Linux-binary version
@@ -50,7 +50,7 @@
       <h3>Contacting the author</h3>
       <blockquote>
         Sven Bursch<br>
-        <a href="mailto:sb100@uni-duisburg.de">sb100@uni-duisburg.de</a><br>
+        <a href="mailto:sb100@bursch.com">sb100@bursch.com</a><br>
         2:2448/820<br>
         See also the <a href="team.html">team page</a>.
       </blockquote>

@@ -310,10 +310,10 @@
         <td>2:2448/820</td>
       <tr>
         <td><b>Email:</b></td>
-        <td><a href="mailto:sb100@uni-duisburg.de">sb100@uni-duisburg.de</a></td>
+        <td><a href="mailto:sb100@bursch.com">sb100@bursch.com</a></td>
       <tr>
         <td><b>Homepage:</b></td>
-        <td><a href="http://www.uni-duisburg.de/~sa519bu/ffma/">www.uni-duisburg.de/~sa519bu/ffma</td>
+        <td><a href="http://www.open4me.de/">www.open4me.de</td>
       <tr>
        <td><b>CVS username:</b></td>
        <td>sven.bursch</td>
