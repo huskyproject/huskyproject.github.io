@@ -5,6 +5,14 @@
     <table summary="News" align="center" width="80%" border="1" bordercolor="#CCCCCC" cellpadding="5" cellspacing="1">
 
       <tr>
+      <tr>
+        <td align="center" valign="top">
+          <strong>22/10/2000</strong>
+        </td>
+        <td align="justify">
+           First stable release for EmailPkt 0.1
+        </td>
+      </tr><tr>
         <td align="center" valign="top">
           <strong>09/10/2000</strong>
         </td>
@@ -121,6 +129,6 @@
       gated mailinglist).
     </blockquote>
 
-    <small>Last update: 20/10/2000</small>
+    <small>Last update: 22/10/2000</small>
 
 #include "bottom.h"
