@@ -228,7 +228,7 @@
         <td>Reutlingen</td>
       <tr>
         <td><b>FidoNet:</b></td>
-        <td>2:2435/424 2:2435/425</td>
+        <td>2:2435/424 2:2435/434</td>
       <tr>
         <td><b>Email:</b></td>
         <td><a href="mailto:Sascha.Silbe@ldknet.org">Sascha.Silbe@ldknet.org</a></td>
