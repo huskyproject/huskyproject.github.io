@@ -110,7 +110,7 @@ h4 {margin-top: 0.1em; text-align: center;}
 
 <!-- Navigation bar ends. -->
 
-
+</*>
    <h3>What is CVS?</h3>
 
    <blockquote>
@@ -134,24 +134,60 @@ h4 {margin-top: 0.1em; text-align: center;}
      <li>All CVS commands require a connection to the CVS server.
      <li><A href="http://www.cvshome.org/dev/codes.html">Get CVS</A> for
     your platform and install it. Please be sure to use at least version 1.10.
-    <br>
+    <dir><small>Note for windows users:<br>
+    Please use <a href=http://www.cygwin.com>cygwin</a> version of CVS
+    if possible - to prevent unexpected CR-CRLF translation.
+    </small></dir>
     Do not use CVS under different platforms on the same work source tree.<br>
     Do not use one working directory for more then one CVS connection.
      <li>Recommended settings for CVS (add to .cvsrc in your home directory):<br>
     <CODE>&nbsp;&nbsp;cvs -z3<BR>
     &nbsp;&nbsp;checkout -P<BR>
-    &nbsp;&nbsp;update -P<BR>
+    &nbsp;&nbsp;update -P -d<BR>
     &nbsp;&nbsp;diff -c </CODE>
-     <li>Login into the CVS Server:
+
+     <li>Read-only access:
+         <p>
+         If You have only retrieve and install latest sources follow the following procedure:
+         <p>
+         <blockquote>
+         <kbd>cvs -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/husky login</kbd>
+         </blockquote>
+         and press <kbd>enter</kbd> where the <kbd>password:</kbd> prompted.
+         (Login required for first cvs connect to this repository only.)
+         <blockquote>
+         <kbd>cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/husky co smapi fidoconf ...</kbd>
+         </blockquote>
+         to retrieve libraries and needed programs or<br>
+         <blockquote>
+         <kbd>cvs -z9 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/husky co .</kbd>
+         </blockquote>
+         to retrieve all modules.
+         </p>
+
+         <p>
+         To update existing sources tree use <kbd>up</kbd> cvs command instead <kbd>co</kbd>.
+         </p>
+
+         <p>
+         Check the file ChangeLog for infrmation about source changes.
+         If you upgrade a cvs version then always do a make clean before
+         you get the next version from the cvs server. If you dont then
+         in some cases there will be problems. It is also possible to browse
+         the cvs repository to get individual files. 
+         </p>
+
+     <li>Read-wrte access:
        <ul>
-         <li>If you want to use the CVS server with write access, register into
+         <li>If you want to use the CVS server with write access (you is
+         developer), register self into
          sourceforge.net and write mail to husky project manager, currently 
          <a href=mailto:d_sergienko@users.sourceforge.net>Dmitry Sergienko</a>
          <li>Read <a href=https://sourceforge.net/cvs/?group_id=1332>Project: husky: CVS</a>
          page and doing as here write.
-         <br>OR
-         <li>Set the environment variable CVS_RSH to <kbd>ssh</kbd>
-         <li>Set the environment variable CVSROOT to <kbd>:ext:<i>&lt;developername&gt;</i>@cvs.husky.sourceforge.net:/cvsroot/husky</kbd>
+         <br>(Set the environment variable CVS_RSH to <kbd>ssh</kbd> and Use
+         cvsroot <kbd>:ext:<i>&lt;developername&gt;</i>@cvs.husky.sourceforge.net:/cvsroot/husky</kbd>
+         using '-d' cvs option or set the environment variable CVSROOT to.)
        </ul>
      <li>Get your work source tree:
        <ul>
@@ -211,8 +247,8 @@ h4 {margin-top: 0.1em; text-align: center;}
       <small>Thanks to <a href="mailto:mr@uue.org">Michael Reinsch</A> fom BTXE developers team for the original.</small>
       </p>
           
-      <small>Last update: 23/08/2002</small>
-               
+      <small>Last update: 14/11/2002</small>
+<!--*/>
 <!-- This is the last part of every HTML here -->
     </td>
   </tr>
