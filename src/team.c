@@ -123,7 +123,7 @@
 
      <tr>
         <td width="100" align="center" valign="center" rowspan="7">
-          No picture available
+          <img src="max.jpg" width="100"  height="100">
         </td>
         <td width="30" rowspan="7">
           &nbsp;
