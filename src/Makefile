@@ -7,9 +7,9 @@ all:	index.html \
 	cvs.html \
 	dl1.html \
 	current.html \
-        stable.html \
+	stable.html \
 	smapi.html \
-        dl2.html \
+	dl2.html \
 	fidoconf.html \
 	hpt.html \
 	msged.html \
@@ -30,7 +30,8 @@ all:	index.html \
 	huskypnt.html \
 	faq.html \
 	huskybse.html \
-	huskmisc.html
+	huskmisc.html \
+	fastlst.html
 
 %.html: %.c
 	$(CC) -E -P -C -o $*.html $*.c
@@ -42,3 +43,4 @@ distclean: clean
 
 install:
 	-$(INSTALL) -m0644 *.html ..
+

@@ -34,6 +34,7 @@
         <dt><b>Nodelist tools</b>
         <dd><a href="promknl.html">promknl</a>
         <dd><a href="nltools.html">nltools</a>
+        <dd><a href="fastlst.html">fastlst</a>
         <dt><a>Tickers</a>
         <dd><a href="htick.html">htick</a>
         <dd><a href="protick.html">protick</a>
