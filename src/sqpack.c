@@ -3,7 +3,7 @@
 
       <h3>What is it?</h3>
       <blockquote>
-        <strong>sqpack</strong> is a Squish message base packer.
+        <strong>sqpack</strong> is a Squish, Jam and SDM message base packer.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -44,7 +44,7 @@
             <td>old release: sqpack 1.0.3</td>
           </tr>
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/sqpack-latest.tar.gz"><tt>sqpack-latest.tar.gz</tt></a></td>
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/sqpack-current-latest.tar.gz"><tt>sqpack-current-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
         </table>
