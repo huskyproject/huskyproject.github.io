@@ -157,7 +157,7 @@
         <td>none</td>
       <tr>
         <td><b>CVS username:</b></td>
-        <td>max</td>
+        <td>ml</td>
       <tr>
          <td><b>Projects:</b></td>
          <td><a href="hpt.html">hpt</a></td>
