@@ -27,7 +27,8 @@ all:	index.html \
 	fidostat.html \
 	huskypnt.html \
 	faq.html \
-	huskybse.html
+	huskybse.html \
+	huskmisc.html
 
 %.html: %.c
 	$(CC) -E -P -C -o $*.html $*.c

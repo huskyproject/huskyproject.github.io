@@ -46,6 +46,7 @@
         <dd><a href="gff.html">gff</a>
         <dd><a href="fidostat.html">fidostat</a>
         <dd><a href="huskypnt.html">huskypnt</a>
+        <dd><a href="huskmisc.html">huskmisc</a>
       </dl>
     </td>
     <td width="10" bgcolor="#CCCCCC"></td>
