@@ -7,6 +7,13 @@
       <tr>
       <tr>
         <td align="center" valign="top">
+          <strong>04/01/2001</strong>
+        </td>
+        <td align="justify">
+	  Maintainance release: hpt 0.9.7d, fidoconfig 0.10c
+        </td>
+      </tr><tr>
+        <td align="center" valign="top">
           <strong>03/01/2001</strong>
         </td>
         <td align="justify">
