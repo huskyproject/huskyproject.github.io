@@ -14,9 +14,11 @@
         <dd><a href="team.html">Husky Team</a>
         <dd><a href="cvs.html">CVS Server</a>
         <dd><a href="faq.html">FAQ</a>
-        <dt><b>What do I need?</b>
-        <dd><a href="point.html">Point</a>
-        <dd><a href="node.html">Node</a>
+        <dt><b>Husky Versions</b>
+        <dd><a href="dl1.html">Overview</a>
+        <dd><a href="current.html">Current Husky</a>
+        <dd><a href="stable.html">Stable Husky</a>
+        <dd><a href="dl2.html">Download</a>
         <dt><b>Basic Files</b>
         <dd><a href="huskybse.html">huskybse</a>
         <dd><a href="smapi.html">smapi</a>

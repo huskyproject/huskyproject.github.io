@@ -5,9 +5,11 @@ all:	index.html \
 	fido.html \
 	team.html \
 	cvs.html \
-	point.html \
-	node.html \
+	dl1.html \
+	current.html \
+        stable.html \
 	smapi.html \
+        dl2.html \
 	fidoconf.html \
 	hpt.html \
 	msged.html \

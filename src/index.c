@@ -6,6 +6,14 @@
 
       <tr>
         <td align="center" valign="top">
+          <strong>21/07/2000</strong>
+        </td>
+        <td align="justify">
+          Binary releases for OS/2 and Win32 of the Husky core tools hpt, fidoconf, nltools, htick and sqpack!
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top">
           <strong>18/07/2000</strong>
         </td>
         <td align="justify">
@@ -26,7 +34,7 @@
  
     <div style="margin-left: 28%; width: 60%; background-color: #CCCCEE; border-bottom: #666688 solid; border-right: #666688 solid; border-left: #EEEEFF solid; border-top: #EEEEFF solid; padding: 10;">
 
-      <h1><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/">Get Husky!</a></h1>
+      <h1><a href="dl2.html">Get Husky!</a></h1>
     </div>           
   
     </p>
