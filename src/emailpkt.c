@@ -5,7 +5,7 @@
       <blockquote>
         <strong>emailpkt</strong> is a FTN mailer over e-mail. It sends bundles
 	as mime base64 attachments and reads and processes incoming mails in
-	search of packets.
+	search of packets (either mime or uuencode).
       </blockquote>
 
       <h3>What does it need?</h3>
