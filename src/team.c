@@ -148,7 +148,7 @@
         <td>2:5000/117</td>
       <tr>
         <td><b>Email:</b></td>
-        <td><a href="sackett@mail.ru">sackett@mail.ru</a></td>
+        <td><a href="mailto:sackett@mail.ru">sackett@mail.ru</a></td>
       <tr>
         <td><b>Homepage:</b></td>
         <td>none</td>

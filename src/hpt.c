@@ -53,7 +53,7 @@
 
       <h3>Contacting the author</h3>
       <blockquote>
-        Maintained by Matthias Tichy, Max Levenkov et al. See the <a href="team.html">team page</a>.
+        Maintained by Matthias Tichy, <a href="mailto:sackett@mail.ru">Max Levenkov</a> et al. See the <a href="team.html">team page</a>.
       </blockquote>
 
 
