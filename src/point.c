@@ -4,7 +4,10 @@
    <h3>What do I need for a point?</h3>
      <blockquote>Under development...
      </blockquote>
-          
-    <small>Last update: 17/04/2000</small>
+     <blockquote>Information about what to download, how to compile the
+     software and where to find documentation can be found inside the huskybse
+     package (see in the Basic Files category).
+     </blockquote>
+    <small>Last update: 14/06/2000</small>
 
-#include "bottom.h"    
+#include "bottom.h"

@@ -10,28 +10,34 @@
       <blockquote>
         Operating systems:
         <ul>
-          <li>All
+          <li>All supported platforms.</li>
+        </ul>
+        Dependencies:
+        <ul>
+          <li>htick-current requires fidoconf-current, smapi-current and huskybse-current from the same day</li>
         </ul>
       </blockquote>
 
-      <h3>Latest stable version</h3>
+      <h3>Downloads</h3>
       <blockquote>
-        None
-      </blockquote>
-
-      <h3>Latest development version</h3>
-      <blockquote>
-        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/htick-latest.tar.gz">
-        CVS
-        </a>
+        <table cellpadding="5" cellspacing="0" border="0">
+          <tr valign="top">
+            <td>n/a</td>
+            <td>current release</td>
+          </tr>
+          <tr valign="top">
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/htick-latest.tar.gz"><tt>htick-latest.tar.gz</tt></a></td>
+            <td>unstable development cvs snapshot</td>
+          </tr>
+        </table>
       </blockquote>
 
       <h3>Contacting the author</h3>
       <blockquote>
-        See the <a href="team.html">team page</a>.
+        Maintained by Nestyurkin Nikolay. See the <a href="team.html">team page</a>.
       </blockquote>
 
 
-      <small>Last update: 17/04/2000</small>
- 
+      <small>Last update: 14/06/2000</small>
+
 #include "bottom.h"

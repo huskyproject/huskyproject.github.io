@@ -3,8 +3,9 @@
 
       <h3>What is it?</h3>
       <blockquote>
-        <strong>fidoconf</strong> is library that keeps in only one
-	configuration file the settings for most of the husky projects.
+        <strong>fidoconf</strong> is a library used to acess the
+        <quot>fidoconfig</quot> style configuration file. This file
+	keeps the settings for most of the husky projects.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -13,26 +14,38 @@
         <ul>
           <li>All
         </ul>
+        Dependencies:
+        <ul>
+          <li>fidoconf-current requries smapi-current and huskybse-current from the same day</li>
+          <li>fidoconfig 0.9 requires smapi 1.6.2</li>
+        </ul>
       </blockquote>
 
-      <h3>Latest stable version</h3>
+      <h3>Downloads</h3>
       <blockquote>
-        None
+        <table cellpadding="5" cellspacing="0" border="0">
+          <tr valign="top">
+            <td>n/a</td>
+            <td>current release</td>
+          </tr>
+          <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.9.tar.gz"><tt>fidoconfig-0.9.tar.gz</tt></a></td>
+            <td>old release: fidoconfig 0.9 source code</td>
+          </tr>
+          <tr valign="top">
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/fidoconf-latest.tar.gz"><tt>fidoconf-latest.tar.gz</tt></a></td>
+            <td>unstable development cvs snapshot</td>
+          </tr>
+        </table>
       </blockquote>
 
-      <h3>Latest development version</h3>
-      <blockquote>
-        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/fidoconf-latest.tar.gz">
-        CVS
-        </a>
-      </blockquote>
 
       <h3>Contacting the author</h3>
       <blockquote>
-        See the <a href="team.html">team page</a>.
+        Maintained by Matthias Tichy, Max Levenkov et. al. See the <a href="team.html">team page</a>.
       </blockquote>
 
 
-      <small>Last update: 17/04/2000</small>
- 
+      <small>Last update: 14/06/2000</small>
+
 #include "bottom.h"
