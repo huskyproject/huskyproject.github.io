@@ -25,8 +25,12 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td>n/a</td>
-            <td>current release</td>
+            <td><a href="http://www.physcip.uni-stuttgart.de/tobi/bin/diskpoll-0.1.3-src.tar.gz">diskpoll-0.1.3-src.tar.gz</a></td>
+            <td>current release: diskpoll 0.1.3-stable</td>
+          </tr>
+          <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de/tobi/bin/dpoll013.zip">dpoll013.zip</a></td>
+            <td>diskpoll 0.1.3-stable executables for OS/2, Win32, DOS, Linux</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de/tobi/bin/dpoll012.zip"><tt>dpoll012.zip</tt></a></td>
