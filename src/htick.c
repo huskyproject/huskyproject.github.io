@@ -28,6 +28,16 @@
             <td>current release: 0.9 stable source code</td>
           </tr>
           <tr valign="top">
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-os2.zip"><tt>htick-0.9-os2.zip</tt></a>
+             </td>
+             <td>htick 0.9-stable os/2 executables</td>
+          </tr>
+          <tr valign="top">
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-win.zip"><tt>htick-0.9-win.zip</tt></a>
+             </td>
+             <td>htick 0.9-stable win32 executables</td>
+          </tr>
+          <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/htick-latest.tar.gz"><tt>htick-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
@@ -40,6 +50,6 @@
       </blockquote>
 
 
-      <small>Last update: 18/07/2000</small>
+      <small>Last update: 21/07/2000</small>
 
 #include "bottom.h"

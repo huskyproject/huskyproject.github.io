@@ -31,6 +31,16 @@
             <td>current release: hpt 0.9.7-stable source code</td>
           </tr>
           <tr valign="top">
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7-os2.zip"><tt>hpt-0.9.7-os2.zip</tt></a>
+             </td>
+             <td>hpt 0.9.7-stable os/2 executables</td>
+          </tr>
+          <tr valign="top">
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7-win.zip"><tt>hpt-0.9.7-win.zip</tt></a>
+             </td>
+             <td>hpt 0.9.7-stable win32 executables</td>
+          </tr>
+          <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.31.tar.gz"><tt>hpt-0.31.tar.gz</tt></a></td>
             <td>old release: hpt 0.31 source code</td>
           </tr>
@@ -47,6 +57,6 @@
       </blockquote>
 
 
-      <small>Last update: 18/07/2000</small>
+      <small>Last update: 21/07/2000</small>
 
 #include "bottom.h"
