@@ -188,7 +188,7 @@
         <td>2:5020/3600</td>
       <tr>
         <td><b>Email:</b></td>
-        <td><a href="mailto:xVamp@Mail.ru">xVamp@Mail.ru</a></td>
+        <td><a href="mailto:3600@mail.ru">3600@mail.ru</a></td>
       <tr>
         <td><b>Homepage:</b></td>
         <td>none</td>
