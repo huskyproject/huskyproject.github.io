@@ -12,23 +12,33 @@
       <blockquote>
         Operating systems:
         <ul>
-          <li>Unix (only tested in Linux)</li>
+          <li>Unix</li>
         </ul>
         Dependencies (with HUSKY support):
         <ul>
-	   <li><a href="smapi.html">smapi</a>
-	   <li><a href="fidoconf.html">fidoconf</a>
+	   <li><a href="smapi.html">smapi-stable</a>
+	   <li><a href="fidoconf.html">fidoconf-stable</a>
         </ul>
         Dependencies (standalone version):
         <ul>
 	   <li>none
         </ul>
+	Extra programs:
+	<ul>
+	   <li>Any MTA (such as sendmail, smail, exim, etc)
+	</ul>
 	
       </blockquote>
 
       <h3>Downloads</h3>
+
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
+          <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/emailpkt-0.1.tar.gz"><tt>emailpkt-0.1.tar.gz</tt></a>
+	    </td>
+            <td>current release: EmailPkt 0.1-stable source code</td>
+          </tr>
           <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/emailpkt-latest.tar.gz"><tt>emailpkt-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
@@ -44,6 +54,6 @@
       </blockquote>
 
 
-      <small>Last update: 23/07/2000</small>
+      <small>Last update: 22/10/2000</small>
 
 #include "bottom.h"
