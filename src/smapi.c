@@ -4,7 +4,7 @@
       <h3>What is it?</h3>
       <blockquote>
         <strong>Smapi</strong> is a modified msgapi for accesing *.MSG, Squish and Jam
-	message base files. It is required for all other Husky software.
+	message base files. It is required for all other Husky software. <p> As the source only builds a single library, there may be no binary package of smapi for your platform. In this case, Husky does not support shared libraries on your platform, and you will not need a smapi package at all, because the binaries of the other projects will be stand-alone binaries.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -19,8 +19,8 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.4.tar.gz"><tt>smapi-1.6.4.tar.gz</tt></a>
-            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.4.zip"><tt>smapi-1.6.4.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.4-src.tar.gz"><tt>smapi-1.6.4-src.tar.gz</tt></a><br>
+            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.4-src.zip"><tt>smapi-1.6.4-src.zip</tt></a>
             </td>
             <td>current release: smapi 1.6.4-stable source code</td>
           </tr>

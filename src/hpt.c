@@ -25,8 +25,8 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7.tar.gz"><tt>hpt-0.9.7.tar.gz</tt></a>
-            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7.zip"><tt>hpt-0.9.7.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7-src.tar.gz"><tt>hpt-0.9.7-src.tar.gz</tt></a>
+            <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7-src.zip"><tt>hpt-0.9.7-src.zip</tt></a>
 	    </td>
             <td>current release: hpt 0.9.7-stable source code</td>
           </tr>

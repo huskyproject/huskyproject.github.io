@@ -5,7 +5,9 @@
       <blockquote>
         <strong>fidoconf</strong> is a library used to acess the
         <quot>fidoconfig</quot> style configuration file. This file
-	keeps the settings for most of the husky projects.
+	keeps the settings for most of the husky projects. The package also
+        contains some utilities for verifying the configuration file syntax
+        or for converting it to other common formats.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -26,8 +28,8 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10.tar.gz"><tt>fidoconfig-0.10.tar.gz</tt></a>
-	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10.zip"><tt>fidoconfig-0.10.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10-src.tar.gz"><tt>fidoconfig-0.10-src.tar.gz</tt></a><br>
+	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10-src.zip"><tt>fidoconfig-0.10-src.zip</tt></a>
 	    </td>
             <td>current release: fidoconfig 0.10 stable source code</td>
           </tr>
