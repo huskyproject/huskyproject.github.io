@@ -31,14 +31,14 @@
             <td>current release: hpt 0.9.7d-stable source code</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7c-os2.zip"><tt>hpt-0.9.7c-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7d-os2.zip"><tt>hpt-0.9.7d-os2.zip</tt></a>
              </td>
-             <td>hpt 0.9.7c-stable os/2 executables</td>
+             <td>hpt 0.9.7d-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7c-win.zip"><tt>hpt-0.9.7c-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7d-win.zip"><tt>hpt-0.9.7d-win.zip</tt></a>
              </td>
-             <td>hpt 0.9.7c-stable win32 executables</td>
+             <td>hpt 0.9.7d-stable win32 executables</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.31.tar.gz"><tt>hpt-0.31.tar.gz</tt></a></td>
@@ -57,6 +57,6 @@
       </blockquote>
 
 
-      <small>Last update: 02/01/2001</small>
+      <small>Last update: 04/01/2001</small>
 
 #include "bottom.h"

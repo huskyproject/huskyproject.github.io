@@ -30,8 +30,8 @@ all:	index.html \
 	huskypnt.html \
 	faq.html \
 	huskybse.html \
-	huskmisc.html \
-	fastlst.html
+	huskmisc.html
+#	fastlst.html
 
 %.html: %.c
 	$(CC) -E -P -C -o $*.html $*.c
