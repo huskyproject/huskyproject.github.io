@@ -6,8 +6,10 @@
      </blockquote>
      <blockquote>Information about what to download, how to compile the
      software and where to find documentation can be found inside the huskybse
-     package (see in the Basic Files category).
+     package (see in the Basic Files category).<br>
+     If you are a Debian-User you could download Debian-Packages. Take a
+     look <A HREF="debian.html">here.</A>
      </blockquote>
-    <small>Last update: 14/06/2000</small>
+    <small>Last update: 12/04/2001</small>
 
 #include "bottom.h"

@@ -19,6 +19,7 @@
         <dd><a href="current.html">Current Husky</a>
         <dd><a href="stable.html">Stable Husky</a>
         <dd><a href="dl2.html">Download</a>
+        <dd><a href="debian.html">Debian Packages</a>
         <dt><b>Basic Files</b>
         <dd><a href="huskybse.html">huskybse</a>
         <dd><a href="smapi.html">smapi</a>

@@ -17,4 +17,8 @@
       http://www.physcip.uni-stuttgart.de:8080/husky</a>. Get all files from
       the same subdirectory there.</p>
 
+      <p>If you are using Debian GNU/Linux take a look at <a href="debian.html">
+      our Debian-Page.</a>. You could install the Husky-Programs using the normal 
+      and easy Debian-way (apt-get, dselect,...).</p>
+
 #include "bottom.h"

@@ -3,6 +3,7 @@ include ../../huskymak.cfg
 all:	index.html \
 	history.html \
 	fido.html \
+	debian.html \
 	team.html \
 	cvs.html \
 	dl1.html \

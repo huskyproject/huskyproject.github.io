@@ -47,6 +47,9 @@
       <tt>fidoconf</tt> package, because it contains vital documentation and
       tools.</p>
 
+      <p>For Debian GNU/Linux Users there are Packages available now.
+      Take a look <a href="debian.html">here.</a></p>
+      
       </blockquote>
 
       <h3><a href="stable.html">Learn more about Stable Husky</a></h3>

@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<!-- This is the first part of every page here -->
+
+<html>
+<head><title>HUSKY - Portable Fido Software</title>
+
+<style type="text/css">
+<!--
+body {margin-top: 0; margin-left: 0;}
+a {text-decoration: none; font-weight: bold;}
+a:hover {color: #9999CC;}
+strong {color: #CC0000;}
+h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
+h3 {margin-top: 10; color: #333333;}
+h4 {margin-top: 0.1em; text-align: center;}
+}
+
+-->
+</style>
+
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#666666">
+
+<basefont face="verdana,arial,tahoma,helv,helvetica">
+
+<table summary="Main" width="100%" cellpadding="2" cellspacing="0" border="0">
+  <tr>
+    <td width="2" bgcolor="#CCCCCC">&nbsp;</td>
+    <td align="center" width="25%" bgcolor="#CCCCCC">
+      <img src="husky.jpg" height="80" alt="should we get a new logo? :-)" align="center">
+    </td>
+
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>                                
+    <td align="center" bgcolor="#CCCCCC" valign="top">
+      <h1>HUSKY</h1>
+      <h4>Portable Fidosoft Project</h4>
+    </td>
+
+<!-- This is the navigation bar. Change as desired and remake -->
+
+  <tr>
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="25%" bgcolor="#CCCCCC" valign="top">
+      <p>&nbsp;
+      <p>
+
+      <dl>
+        <dt><b>Main</b>
+        <dd><a href="index.html">Main</a>
+        <dd><a href="history.html">History</a>
+        <dd><a href="fido.html">What is Fido?</a>
+        <dd><a href="team.html">Husky Team</a>
+        <dd><a href="cvs.html">CVS Server</a>
+        <dd><a href="faq.html">FAQ</a>
+        <dt><b>Husky Versions</b>
+        <dd><a href="dl1.html">Overview</a>
+        <dd><a href="current.html">Current Husky</a>
+        <dd><a href="stable.html">Stable Husky</a>
+        <dd><a href="dl2.html">Download</a>
+        <dd><a href="debian.html">Debian Packages</a>
+        <dt><b>Basic Files</b>
+        <dd><a href="huskybse.html">huskybse</a>
+        <dd><a href="smapi.html">smapi</a>
+        <dd><a href="fidoconf.html">fidoconf</a>
+        <dt><b>Tosser</b>
+        <dd><a href="hpt.html">hpt</a>
+        <dt><b>Editor</b>
+        <dd><a href="msged.html">msged</a>
+        <dt><b>Netmail utilities</b>
+        <dd><a href="cfroute.html">cfroute</a>
+        <dd><a href="lxtrack.html">lxtrack</a>
+        <dd><a href="ffma.html">ffma</a>
+        <dd><a href="bsopack.html">bsopack</a>
+        <dt><b>Nodelist tools</b>
+        <dd><a href="promknl.html">promknl</a>
+        <dd><a href="nltools.html">nltools</a>
+        <dd><a href="fastlst.html">fastlst</a>
+        <dt><a>Tickers</a>
+        <dd><a href="htick.html">htick</a>
+        <dd><a href="protick.html">protick</a>
+        <dt><b>Gateway</b>
+        <dd><a href="progate.html">progate</a>
+        <dt><b>Mailers</b>
+        <dd><a href="emailpkt.html">emailpkt</a>
+        <dd><a href="diskpoll.html">diskpoll</a>
+        <dt><b>Tools</b>
+        <dd><a href="sqpack.html">sqpack</a>
+        <dd><a href="mpost.html">mpost</a>
+        <dd><a href="gff.html">gff</a>
+        <dd><a href="fidostat.html">fidostat</a>
+        <dd><a href="huskypnt.html">huskypnt</a>
+        <dd><a href="huskmisc.html">huskmisc</a>
+      </dl>
+    </td>
+    <td width="10" bgcolor="#CCCCCC"></td>
+    <td width="10"></td>
+    <td align="justify" valign="top">
+
+
+
+      <h3>Download Debian-Packages for Husky!</h3>
+      <center>
+      <img src="debian.jpg" alt="Debian Logo" align="center">
+      </center>
+
+      <blockquote>
+      <p>Please note: Today all Packages are ONLY compiled for the unstable
+      Debian, Sid. My second PC needs a new Mainboard (Sockel 7, for AMD K6/2 450MHz).
+      If i have a new one (not in the near future, i have NO money), i will also
+      build for the stable Debian.</p>
+
+      <p>To get Debian-Packages for the <a href="stable.html">Stable</a>
+      Husky versions, you have to enter the following line into your
+      <EM>/etc/apt/sources.list</EM> and run apt-get update (or select
+      the Update-Menu in dselect).</p>
+      
+      <p><CODE>
+      deb ftp://goliathbbs.dnsalias.net/debian/huskystable unstable main
+      </CODE></p>
+      
+      <p>To get the Source for this Packages you enter the following line too:</p>
+
+      <p><CODE>
+      deb-src ftp://goliathbbs.dnsalias.net/debian/huskystable unstable main
+      </CODE></p>
+
+
+      <p>If you cant live without the newest versions, or you just want to
+      test/have the new functions of the programs, you need the latest Husky
+      versions. These are build directly from the Husky CVS-Server !
+      You could <STRONG>not use</STRONG> one stable Package with one unstable
+      package. You have to upgrade <STRONG>all</STRONG> your Packages to this
+      unstable versions ! (The Dependencies in the Packages will force you to
+      do so).<br>
+      There is <STRONG>NO</STRONG> Warranty that this Packages are working !
+      If you find bugs in the Packages please inform the Package-Maintainer
+      (see <a href="team.html">Team-Page</a>). If you find bugs in the
+      Programs itself please inform the Maintainer of this program.</p>
+      
+      <p> You really want the newest Packages available ? Then insert the 
+      following into your sources.list:</p>
+      
+      <p><CODE>
+      deb ftp://goliathbbs.dnsalias.net/debian/huskyunstable unstable main
+      </CODE></p>
+      
+      <p>To get the Source for this Packages you enter the following line too:</p>
+
+      <p><CODE>
+      deb-src ftp://goliathbbs.dnsalias.net/debian/huskyunstable unstable main
+      </CODE></p>
+
+      </blockquote>
+
+      <small>Last update: 12/04/2001</small>
+
+<!-- This is the last part of every HTML here -->
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+

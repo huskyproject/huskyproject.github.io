@@ -7,6 +7,13 @@
       <tr>
       <tr>
         <td align="center" valign="top">
+          <strong>12/04/2001</strong>
+        </td>
+        <td align="justify">
+          <a href="debian.html">Debian Packages</a> available.
+        </td>
+      </tr><tr>
+        <td align="center" valign="top">
           <strong>04/01/2001</strong>
         </td>
         <td align="justify">
@@ -150,6 +157,6 @@
       gated mailinglist).
     </blockquote>
 
-    <small>Last update: 01/11/2000</small>
+    <small>Last update: 12/04/2000</small>
 
 #include "bottom.h"
