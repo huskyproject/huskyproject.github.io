@@ -50,7 +50,7 @@
 
       <tr>
         <td width="100" align="center" valign="center" rowspan="9">
-          No picture available
+          <img src="german.jpg" width="100" height="110">
         </td>
         <td width="30" rowspan="9">
           &nbsp;
