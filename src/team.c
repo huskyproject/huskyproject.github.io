@@ -37,6 +37,9 @@
         <td><b>Homepage:</b></td>
         <td>none</td>
       <tr>
+        <td><b>CVS username:</b></td>
+        <td>none</td>
+      <tr>
          <td><b>Projects:</b></td>
          <td><a href="hpt.html">hpt</a> bug fixing</td>
 
@@ -70,6 +73,9 @@
       <tr>
         <td><b>Homepage:</b></td>
         <td>none</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>german.theler</td>
       <tr>
          <td><b>Projects:</b></td>
          <td><a href="pkt2mail.html">pkt2mail</a></td>
@@ -109,6 +115,9 @@
         <td><b>Homepage:</b></td>
         <td><a href="http://www.tichy.de">www.tichy.de</a></td>
       <tr>
+        <td><b>CVS username:</b></td>
+        <td>mtt</td>
+      <tr>
          <td><b>Projects:</b></td>
          <td><a href="hpt.html">hpt</a></td>
       <tr>
@@ -147,6 +156,9 @@
         <td><b>Homepage:</b></td>
         <td>none</td>
       <tr>
+        <td><b>CVS username:</b></td>
+        <td>max</td>
+      <tr>
          <td><b>Projects:</b></td>
          <td><a href="hpt.html">hpt</a></td>
 
@@ -180,6 +192,9 @@
       <tr>
         <td><b>Homepage:</b></td>
         <td>none</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>nestyurkin.nikolay</td>
       <tr>
          <td><b>Projects:</b></td>
          <td><a href="htick.html">htick</a></td>
@@ -220,6 +235,9 @@
       <tr>
         <td><b>Homepage:</b></td>
         <td><a href="http://www.ldknet.org/~ssilbe">www.ldknet.org/~ssilbe</a></td>
+      <tr>
+       <td><b>CVS username:</b></td>
+       <td>sms</td>
       <tr>
          <td><b>Projects:</b></td>
          <td><a href="progate.html">progate</a></td>
@@ -262,6 +280,9 @@
         <td><b>Homepage:</b></td>
         <td><a href="http://www.uni-duisburg.de/~sa519bu/ffma/">www.uni-duisburg.de/~sa519bu/ffma</td>
       <tr>
+       <td><b>CVS username:</b></td>
+       <td>sven.bursch</td>
+      <tr>
          <td><b>Projects:</b></td>
          <td><a href="ffma.html">ffma</a></td>
 
@@ -296,6 +317,9 @@
       <tr>
         <td><b>Homepage:</b></td>
         <td><a href="http://www.physcip.uni-stuttgart.de/tobi">www.physcip.uni-stuttgart.de/tobi</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>tobi</td>
       <tr>
          <td><b>Projects:</b></td>
          <td><a href="msged.html">msged</a></td>
