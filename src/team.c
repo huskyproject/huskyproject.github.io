@@ -15,7 +15,7 @@
         <td width="120" align="center" valign="center" rowspan="8">
           <img src="alex.jpg" width="100" height="100">
         </td>
-        <td width="30" rowspan="7">
+        <td width="30" rowspan="8">
           &nbsp;
         </td>
 
