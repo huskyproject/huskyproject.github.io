@@ -24,8 +24,8 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0.tar.gz"><tt>sqpack-1.1.0.tar.gz</tt></a>
-            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0.zip"><tt>sqpack-1.1.0.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0-src.tar.gz"><tt>sqpack-1.1.0-src.tar.gz</tt></a>
+            <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0-src.zip"><tt>sqpack-1.1.0-src.zip</tt></a>
             </td>      
             <td>current release: sqpack 1.1.0</td>
           </tr>
