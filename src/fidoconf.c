@@ -47,7 +47,7 @@
             <td>old release: fidoconfig 0.9 source code</td>
           </tr>
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/fidoconf-latest.tar.gz"><tt>fidoconf-latest.tar.gz</tt></a></td>
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/fidoconf-current-latest.tar.gz"><tt>fidoconf-current-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
         </table>

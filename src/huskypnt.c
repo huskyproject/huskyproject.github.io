@@ -50,7 +50,7 @@
 
       <h3>Latest development version</h3>
       <blockquote>
-        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/huskypnt-latest.tar.gz">
+        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/huskypnt-current-latest.tar.gz">
         CVS
         </a>
       </blockquote>

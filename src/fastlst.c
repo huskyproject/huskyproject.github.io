@@ -35,7 +35,7 @@
             <td>fastlst 2.0.3 (current release) binaries</td>
           </tr>
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/fastlst-latest.tar.gz"><tt>fastlst-latest.tar.gz</tt></a></td>
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/fastlst-current-latest.tar.gz"><tt>fastlst-current-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
         </table>

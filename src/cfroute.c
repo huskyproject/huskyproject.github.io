@@ -36,7 +36,7 @@
             <td>old release: cfroute 0.95a binaries</td>
           </tr>
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/cfroute-latest.tar.gz"><tt>cfroute-latest.tar.gz</tt></a></td>
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/cfroute-current-latest.tar.gz"><tt>cfroute-current-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
         </table>

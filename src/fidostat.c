@@ -21,7 +21,7 @@
 
       <h3>Latest development version</h3>
       <blockquote>
-        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/fidostat-latest.tar.gz">
+        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/fidostat-current-latest.tar.gz">
         CVS
         </a>
       </blockquote>

@@ -41,7 +41,7 @@
           </tr>
           
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/ffma-latest.tar.gz"><tt>ffma-latest.tar.gz</tt></a></td>
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/ffma-current-latest.tar.gz"><tt>ffma-current-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
         </table>

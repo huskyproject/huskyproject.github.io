@@ -24,7 +24,7 @@
 
       <h3>Latest development version</h3>
       <blockquote>
-        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/protick-latest.tar.gz">
+        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/protick-current-latest.tar.gz">
         CVS
         </a>
       </blockquote>

@@ -29,7 +29,7 @@
             <td>old release: smapi 1.6.2 source code</td>
           </tr>
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/smapi-latest.tar.gz"><tt>smapi-latest.tar.gz</tt></a></td>
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/smapi-current-latest.tar.gz"><tt>smapi-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
         </table>
