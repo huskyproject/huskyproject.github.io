@@ -28,8 +28,8 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10-src.tar.gz"><tt>fidoconfig-0.10-src.tar.gz</tt></a><br>
-	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.10-src.zip"><tt>fidoconfig-0.10-src.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10-src.tar.gz"><tt>fidoconf-0.10-src.tar.gz</tt></a><br>
+	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10-src.zip"><tt>fidoconf-0.10-src.zip</tt></a>
 	    </td>
             <td>current release: fidoconfig 0.10 stable source code</td>
           </tr>
