@@ -23,19 +23,19 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-src.tar.gz"><tt>htick-0.9-src.tar.gz</tt></a><br>
-            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-src.zip"><tt>htick-0.9-src.zip</tt></a></td>
-            <td>current release: 0.9 stable source code</td>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9a-src.tar.gz"><tt>htick-0.9a-src.tar.gz</tt></a><br>
+            <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9a-src.zip"><tt>htick-0.9a-src.zip</tt></a></td>
+            <td>current release: 0.9a stable source code</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-os2.zip"><tt>htick-0.9-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9a-os2.zip"><tt>htick-0.9a-os2.zip</tt></a>
              </td>
-             <td>htick 0.9-stable os/2 executables</td>
+             <td>htick 0.9a-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9-win.zip"><tt>htick-0.9-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/htick-0.9a-win.zip"><tt>htick-0.9a-win.zip</tt></a>
              </td>
-             <td>htick 0.9-stable win32 executables</td>
+             <td>htick 0.9a-stable win32 executables</td>
           </tr>
           <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/htick-latest.tar.gz"><tt>htick-latest.tar.gz</tt></a></td>
@@ -50,6 +50,6 @@
       </blockquote>
 
 
-      <small>Last update: 21/07/2000</small>
+      <small>Last update: 01/11/2000</small>
 
 #include "bottom.h"

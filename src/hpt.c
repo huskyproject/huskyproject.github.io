@@ -16,7 +16,7 @@
         Dependencies:
         <ul>
           <li>hpt-current requires fidoconf-current, smapi-current and huskybse-current from the same day</li>
-	<li>hpt-0.9.7b-stable requires fidoconf-0.10-stable, smapi-1.6.4-stable(1.6.4a for JAM), and huskybse-0.1-stable</li>
+	<li>hpt-0.9.7c-stable requires fidoconf-0.10-stable, smapi-1.6.4-stable(1.6.4a for JAM), and huskybse-0.1-stable</li>
           <li>hpt 0.31 requires fidoconfig 0.9 and smapi 1.6.2</li>
         </ul>
       </blockquote>
@@ -25,20 +25,20 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7b-src.tar.gz"><tt>hpt-0.9.7b-src.tar.gz</tt></a>
-            <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7b-src.zip"><tt>hpt-0.9.7b-src.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7c-src.tar.gz"><tt>hpt-0.9.7c-src.tar.gz</tt></a>
+            <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7c-src.zip"><tt>hpt-0.9.7c-src.zip</tt></a>
 	    </td>
-            <td>current release: hpt 0.9.7b-stable source code</td>
+            <td>current release: hpt 0.9.7c-stable source code</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7b-os2.zip"><tt>hpt-0.9.7b-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7c-os2.zip"><tt>hpt-0.9.7c-os2.zip</tt></a>
              </td>
-             <td>hpt 0.9.7b-stable os/2 executables</td>
+             <td>hpt 0.9.7c-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7b-win.zip"><tt>hpt-0.9.7b-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.9.7c-win.zip"><tt>hpt-0.9.7c-win.zip</tt></a>
              </td>
-             <td>hpt 0.9.7b-stable win32 executables</td>
+             <td>hpt 0.9.7c-stable win32 executables</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/hpt-0.31.tar.gz"><tt>hpt-0.31.tar.gz</tt></a></td>
@@ -57,6 +57,6 @@
       </blockquote>
 
 
-      <small>Last update: 21/07/2000</small>
+      <small>Last update: 01/11/2000</small>
 
 #include "bottom.h"

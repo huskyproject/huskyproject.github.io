@@ -28,20 +28,20 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10a-src.tar.gz"><tt>fidoconf-0.10a-src.tar.gz</tt></a><br>
-	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10a-src.zip"><tt>fidoconf-0.10a-src.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-src.tar.gz"><tt>fidoconf-0.10b-src.tar.gz</tt></a><br>
+	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-src.zip"><tt>fidoconf-0.10b-src.zip</tt></a>
 	    </td>
-            <td>current release: fidoconfig 0.10a-stable source code</td>
+            <td>current release: fidoconfig 0.10b-stable source code</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10-os2.zip"><tt>fidoconf-0.10-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-os2.zip"><tt>fidoconf-0.10b-os2.zip</tt></a>
              </td>
-             <td>fidoconfig 0.10-stable os/2 executables</td>
+             <td>fidoconfig 0.10b-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10-win.zip"><tt>fidoconf-0.10-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-win.zip"><tt>fidoconf-0.10b-win.zip</tt></a>
              </td>
-             <td>fidoconfig 0.10-stable win32 executables</td>
+             <td>fidoconfig 0.10b-stable win32 executables</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconfig-0.9.tar.gz"><tt>fidoconfig-0.9.tar.gz</tt></a></td>
@@ -61,6 +61,6 @@
       </blockquote>
 
 
-      <small>Last update: 21/07/2000</small>
+      <small>Last update: 01/11/2000</small>
 
 #include "bottom.h"

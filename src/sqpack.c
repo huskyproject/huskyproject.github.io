@@ -24,18 +24,18 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0a-src.tar.gz"><tt>sqpack-1.1.0a-src.tar.gz</tt></a>
-            <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0a-src.zip"><tt>sqpack-1.1.0a-src.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0b-src.tar.gz"><tt>sqpack-1.1.0b-src.tar.gz</tt></a>
+            <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0b-src.zip"><tt>sqpack-1.1.0b-src.zip</tt></a>
             </td>      
-            <td>current release: sqpack 1.1.0a</td>
+            <td>current release: sqpack 1.1.0b</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0a-os2.zip"><tt>sqpack-1.1.0a-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0b-os2.zip"><tt>sqpack-1.1.0b-os2.zip</tt></a>
              </td>
-             <td>sqpack 1.1.0a-stable os/2 executables</td>
+             <td>sqpack 1.1.0b-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0a-win.zip"><tt>sqpack-1.1.0a-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0b-win.zip"><tt>sqpack-1.1.0b-win.zip</tt></a>
              </td>
              <td>sqpack 1.1.0-stable win32 executables</td>
           </tr>
@@ -59,6 +59,6 @@
       </blockquote>
 
 
-      <small>Last update: 21/07/2000</small>
+      <small>Last update: 01/11/2000</small>
 
 #include "bottom.h"
