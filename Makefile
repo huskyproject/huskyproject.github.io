@@ -59,5 +59,5 @@ clean:
 	
 distclean: clean
 
-install: all
-	-$(INSTALL) -m0644 *.html $(HOMEPAGEDIR)
+install:
+	-$(INSTALL) -m0664 *.html $(HOMEPAGEDIR)
