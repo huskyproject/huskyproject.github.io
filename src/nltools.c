@@ -25,20 +25,20 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1-src.tar.gz"><tt>nltools-1.1-src.tar.gz</tt></a><br>
-                <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1-src.zip"><tt>nltools-1.1-src.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1a-src.tar.gz"><tt>nltools-1.1a-src.tar.gz</tt></a><br>
+                <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1a-src.zip"><tt>nltools-1.1a-src.zip</tt></a>
             </td>   
-            <td>current release: nltools 1.1-stable source code</td>
+            <td>current release: nltools 1.1a-stable source code</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1-os2.zip"><tt>nltools-1.1-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1a-os2.zip"><tt>nltools-1.1a-os2.zip</tt></a>
              </td>
-             <td>nltools 1.1-stable os/2 executables</td>
+             <td>nltools 1.1a-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1-win.zip"><tt>nltools-1.1-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1a-win.zip"><tt>nltools-1.1a-win.zip</tt></a>
              </td>
-             <td>nltools 1.1-stable win32 executables</td>
+             <td>nltools 1.1a-stable win32 executables</td>
           </tr>
 
 

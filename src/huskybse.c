@@ -26,9 +26,9 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/huskybse-0.1-src.tar.gz">huskybse-0.1-src.tar.gz</a>
-             <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/huskybse-0.1-src.zip">huskybse-0.1-src.zip</a></td>
-            <td>current release huskybse-0.1.-stable, with example configuration files etc.</td>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/huskybse-0.1a-src.tar.gz">huskybse-0.1a-src.tar.gz</a>
+             <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/huskybse-0.1a-src.zip">huskybse-0.1a-src.zip</a></td>
+            <td>current release huskybse-0.1a-stable, with example configuration files etc.</td>
           </tr>
           <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/huskybse-latest.tar.gz"><tt>huskybse-latest.tar.gz</tt></a></td>

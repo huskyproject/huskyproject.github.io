@@ -6,6 +6,14 @@
 
       <tr>
         <td align="center" valign="top">
+          <strong>17/09/2000</strong>
+        </td>
+        <td align="justify">
+          Maintainance release of the core tools: bug fixes for hpt and
+        nltools, JAM bug fixes, and new: support for BeOS
+        </td>
+      </tr><tr>
+        <td align="center" valign="top">
           <strong>21/07/2000</strong>
         </td>
         <td align="justify">
