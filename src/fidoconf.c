@@ -28,10 +28,9 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-src.tar.gz"><tt>fidoconf-0.10b-src.tar.gz</tt></a><br>
-	<a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-src.zip"><tt>fidoconf-0.10b-src.zip</tt></a>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10c-src.tar.gz"><tt>fidoconf-0.10c-src.tar.gz</tt></a>
 	    </td>
-            <td>current release: fidoconfig 0.10b-stable source code</td>
+            <td>current release: fidoconfig 0.10c-stable source code</td>
           </tr>
           <tr valign="top">
              <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10b-os2.zip"><tt>fidoconf-0.10b-os2.zip</tt></a>
@@ -61,6 +60,6 @@
       </blockquote>
 
 
-      <small>Last update: 01/11/2000</small>
+      <small>Last update: 02/01/2001</small>
 
 #include "bottom.h"
