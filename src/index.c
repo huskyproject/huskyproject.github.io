@@ -6,6 +6,13 @@
 
       <tr>
         <td align="center" valign="top">
+          <strong>09/10/2000</strong>
+        </td>
+        <td align="justify">
+           Maintainence bugfix releases from the stable branch: hpt 0.9.7b, sqpack-1.1.0a, others.
+        </td>
+      </tr><tr>
+        <td align="center" valign="top">
           <strong>18/09/2000</strong>
         </td>
         <td align="justify">
