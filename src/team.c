@@ -386,7 +386,7 @@
         </td>
 
         <td><b>Age:</b></td>
-        <td>23</td>
+        <td>24</td>
       <tr>
         <td><b>Country:</b></td>
         <td>Germany</td>
@@ -401,7 +401,7 @@
         <td><a href="mailto:m.haase@gmx.net">m.haase@gmx.net</a></td>
       <tr>
         <td><b>Homepage:</b></td>
-        <td><a href="http://www.fido.debox.de/">www.fido.debox.de/</td>
+        <td><a href="http://www.fido-deluxe.de.vu/">www.fido-deluxe.de.vu/</td>
       <tr>
         <td><b>CVS username:</b></td>
         <td>mhaase</td>
