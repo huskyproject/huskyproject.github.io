@@ -1,6 +1,12 @@
 #ifdef i386
 #undef i386
 #endif
+#ifdef UNIX
+#undef UNIX
+#endif
+#ifdef unix
+#undef unix
+#endif
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 
 <!-- This is the first part of every page here -->
