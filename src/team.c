@@ -275,10 +275,48 @@
          <td><b>Projects:</b></td>
          <td><a href="ffma.html">ffma</a></td>
 
+
+      <tr>
+      <td colspan="4" align="center">
+        <h3 style="color: #3333AA">Nestyurkin Nikolay</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="11">
+          No picture available
+        </td>
+        <td width="30" rowspan="11">
+          &nbsp;
+        </td>
+
+        <td><b>Age:</b></td>
+        <td>21</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Russia</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Moscow</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:5020/3600</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:xVamp@Mail.ru">xVamp@Mail.ru</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td>none</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="htick.html">htick</a></td>
+      <tr>
+         <td>&nbsp;</td>
+         <td><a href="hpt.html">hpt</a></td>
+
     </table>
 
     <p>  
 
-    <small>Last update: 26/04/2000</small>
+    <small>Last update: 03/05/2000</small>
                
 #include "bottom.h"
