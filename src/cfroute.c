@@ -1,8 +1,5 @@
 #include "top.h"
 #include "navbar.h"
-#ifdef i386
-#undef i386
-#endif
 
       <h3>What is it?</h3>
       <blockquote>
