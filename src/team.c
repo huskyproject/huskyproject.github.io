@@ -45,6 +45,44 @@
 
       <tr>
       <td colspan="4" align="center">
+        <h3 style="color: #3333AA">Dmitry Sergienko</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="8">
+          No picture available
+        </td>
+        <td width="30" rowspan="8">
+          &nbsp;
+        </td>
+
+        <td><b>Age:</b></td>
+        <td>19</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Ukraine</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Dniepropetrovsk</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:464/910</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:trooper@unity.net">trooper@unity.net</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td>None</td>
+      <tr>
+       <td><b>CVS username:</b></td>
+       <td>d.sergienko</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="bsopack.html">bsopack</a></td>
+
+
+      <tr>
+      <td colspan="4" align="center">
         <h3 style="color: #3333AA">Germ&aacute;n Theler</h3>
       </td>
 
@@ -376,6 +414,6 @@
 
     <p>  
 
-    <small>Last update: 06/11/2000</small>
+    <small>Last update: 07/02/2001</small>
                
 #include "bottom.h"

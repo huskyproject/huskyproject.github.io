@@ -50,6 +50,7 @@
         <dd><a href="fidostat.html">fidostat</a>
         <dd><a href="huskypnt.html">huskypnt</a>
         <dd><a href="huskmisc.html">huskmisc</a>
+        <dd><a href="bsopack.html">bsopack</a>
       </dl>
     </td>
     <td width="10" bgcolor="#CCCCCC"></td>

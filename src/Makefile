@@ -30,7 +30,8 @@ all:	index.html \
 	huskypnt.html \
 	faq.html \
 	huskybse.html \
-	huskmisc.html
+	huskmisc.html \
+        bsopack.html
 #	fastlst.html
 
 %.html: %.c
