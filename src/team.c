@@ -211,7 +211,7 @@
 
       <tr>
         <td width="100" align="center" valign="center" rowspan="10">
-          <img src="" width="100" height="121">
+          <img src="" width="100" height="121" alt="No picture avaiable">
         </td>
         <td width="30" rowspan="10">
           &nbsp;
