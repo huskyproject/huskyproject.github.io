@@ -130,7 +130,7 @@
         </td>
 
         <td><b>Age:</b></td>
-        <td>19</td>
+        <td>20</td>
       <tr>
         <td><b>Country:</b></td>
         <td>Russia, West Siberia</td>
@@ -156,10 +156,10 @@
       </td>
 
       <tr>
-        <td width="100" align="center" valign="center" rowspan="11">
+        <td width="100" align="center" valign="center" rowspan="8">
           No picture available
         </td>
-        <td width="30" rowspan="11">
+        <td width="30" rowspan="8">
           &nbsp;
         </td>
 
@@ -237,10 +237,10 @@
       </td>
 
       <tr>
-        <td width="100" align="center" valign="center" rowspan="11">
+        <td width="100" align="center" valign="center" rowspan="8">
           No picture available
         </td>
-        <td width="30" rowspan="11">
+        <td width="30" rowspan="8">
           &nbsp;
         </td>
 
