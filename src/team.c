@@ -49,7 +49,7 @@
       </td>
 
       <tr>
-        <td width="100" align="center" valign="center" rowspan="9">
+        <td width="100" align="center" valign="center" rowspan="8">
           <img src="german.jpg" width="100" height="110">
         </td>
         <td width="30" rowspan="9">
@@ -78,10 +78,7 @@
         <td>german.theler</td>
       <tr>
          <td><b>Projects:</b></td>
-         <td><a href="pkt2mail.html">pkt2mail</a></td>
-      <tr>
-         <td>&nbsp;</td>
-         <td><a href="mail2pkt.html">mail2pkt</a></td>
+         <td><a href="emailpkt.html">emailpkt</a></td>
 
 
       <tr>
