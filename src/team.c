@@ -50,7 +50,7 @@
 
       <tr>
         <td width="100" align="center" valign="center" rowspan="8">
-          <img src="dmitry.jpg" width="100" height="100">
+          <img src="dmitry.jpg" width="100" height="121">
         </td>
         <td width="30" rowspan="8">
           &nbsp;
