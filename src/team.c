@@ -341,7 +341,7 @@
 
       <tr>
         <td width="100" align="center" valign="center" rowspan="12">
-          <img src="micha.jpg" width="100" height="139">
+          <img src="micha.jpg" width="100" height="139" alt="Micha">
         </td>
         <td width="30" rowspan="12">
           &nbsp;

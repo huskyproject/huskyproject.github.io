@@ -4,7 +4,9 @@
       <h3>What is it?</h3>
       <blockquote>
         <strong>protick</strong> reads TIC-files and processes the associated
-	files following the information in the TIC.
+	files following the information in the TIC. ProTick is not actively
+	developed anymore (though it is rather stable), please use htick 
+	instead.
       </blockquote>
 
       <h3>What does it need?</h3>
