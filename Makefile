@@ -11,7 +11,7 @@
 include ../huskymak.cfg
 
 # Location of the http server document root for husky site
-HOMEPAGEDIR	= /home/groups/h/hu/husky/web/htdocs
+HOMEPAGEDIR	= /home/groups/h/hu/husky/htdocs
 
 # Source files dir
 SRCDIR		= src$(DIRSEP)
