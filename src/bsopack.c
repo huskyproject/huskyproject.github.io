@@ -3,7 +3,7 @@
 
       <h3>What is it?</h3>
       <blockquote>
-        <strong>bsopack</strong> is a Squish message base packer.
+        <strong>bsopack</strong> is a Binkley-style outbound netmail packer.
       </blockquote>
 
       <h3>What does it need?</h3>
