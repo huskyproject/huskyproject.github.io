@@ -26,7 +26,7 @@
  
     <div style="margin-left: 28%; width: 60%; background-color: #CCCCEE; border-bottom: #666688 solid; border-right: #666688 solid; border-left: #EEEEFF solid; border-top: #EEEEFF solid; padding: 10;">
 
-      <h1><a href="download.html">Get Husky!</a></h1>
+      <h1><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/">Get Husky!</a></h1>
     </div>           
   
     </p>
