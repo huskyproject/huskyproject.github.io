@@ -241,10 +241,44 @@
          <td><a href="diskpoll.html">diskpoll</a></td>
 
 
+      <tr>
+      <td colspan="4" align="center">
+        <h3 style="color: #3333AA">Sven Bursch</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="11">
+          No picture available
+        </td>
+        <td width="30" rowspan="11">
+          &nbsp;
+        </td>
+
+        <td><b>Age:</b></td>
+        <td>22</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Germany</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Duisburg</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:2448/820</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:sb100@uni-duisburg.de">sb100@uni-duisburg.de</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td><a href="http://www.uni-duisburg.de/~sa519bu/ffma/">www.uni-duisburg.de/~sa519bu/ffma</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="ffma.html">ffma</a></td>
+
     </table>
 
     <p>  
 
-    <small>Last update: 10/04/2000</small>
+    <small>Last update: 26/04/2000</small>
                
 #include "bottom.h"
