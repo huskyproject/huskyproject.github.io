@@ -18,7 +18,7 @@
         </ul>
         Dependencies:
         <ul>
-          <li>cfroute-current requiressmapi-current and huskybse-current from the same day</li>
+          <li>cfroute-current requires smapi-current and huskybse-current from the same day</li>
           <li>cfroute 0.95a requires smapi 1.6.2</li>
         </ul>
       </blockquote>
