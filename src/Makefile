@@ -19,8 +19,7 @@ all:	index.html \
 	htick.html \
 	protick.html \
 	progate.html \
-	pkt2mail.html \
-	mail2pkt.html \
+	emailpkt.html \
 	diskpoll.html \
 	sqpack.html \
 	mpost.html \
