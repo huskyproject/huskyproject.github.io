@@ -34,6 +34,10 @@
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/msged-latest.tar.gz"><tt>msged-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
           </tr>
+          <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de/tobi/msged/snapshot"><tt>snapshot/</tt></a></td>
+            <td>directory with various recent binary builds of the development version</td>
+          </tr>
         </table>
       </blockquote>
 
@@ -46,6 +50,6 @@
       </blockquote>
 
 
-      <small>Last update: 14/06/2000</small>
+      <small>Last update: 01/06/2001</small>
 
 #include "bottom.h"
