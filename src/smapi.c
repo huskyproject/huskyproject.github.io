@@ -24,9 +24,9 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-2.0.0-src.tar.gz"><tt>smapi-2.0.0-src.tar.gz</tt></a><br>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-2.0.1-src.tar.gz"><tt>smapi-2.0.1-src.tar.gz</tt></a><br>
             </td>
-            <td>newest release: smapi 2.0.0-stable source code</td>
+            <td>newest release: smapi 2.0.1-stable source code</td>
           </tr>
 
           <tr valign="top">
@@ -53,6 +53,6 @@
       </blockquote>
 
 
-      <small>Last update: 27/11/2001</small>
+      <small>Last update: 10/02/2002</small>
 
 #include "bottom.h"
