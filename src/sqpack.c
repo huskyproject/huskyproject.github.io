@@ -30,14 +30,14 @@
             <td>current release: sqpack 1.1.0</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1-os2.zip"><tt>sqpack-1.1-os2.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0-os2.zip"><tt>sqpack-1.1.0-os2.zip</tt></a>
              </td>
-             <td>sqpack 1.1-stable os/2 executables</td>
+             <td>sqpack 1.1.0-stable os/2 executables</td>
           </tr>
           <tr valign="top">
-             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1-win.zip"><tt>sqpack-1.1-win.zip</tt></a>
+             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0-win.zip"><tt>sqpack-1.1.0-win.zip</tt></a>
              </td>
-             <td>sqpack 1.1-stable win32 executables</td>
+             <td>sqpack 1.1.0-stable win32 executables</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.0.3.tar.gz"><tt>sqpack-1.0.3.tar.gz</tt></a></td>
