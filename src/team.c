@@ -371,7 +371,6 @@
          <td>&nbsp;</td>
          <td><a href="diskpoll.html">diskpoll</a></td>
 
-
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Michael Haase</h3>
@@ -410,10 +409,47 @@
          <td><a href="hpt.html">hpt</a></td>
 
 
+      <tr>
+      <td colspan="4" align="center">
+        <h3 style="color: #3333AA">J&ouml;rg Jaspert</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="9">
+          No picture available
+        </td>
+        <td width="30" rowspan="12">
+          &nbsp;
+        </td>
+
+        <td><b>Age:</b></td>
+        <td>24</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Germany</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Fulda</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:2435/109</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:joerg@goliathbbs.dnsalias.net">joerg@goliathbbs.dnsalias.net</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td>Nope</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>joerg.jaspert</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="debian.html">Debian Packages</a></td>
+
     </table>
 
     <p>  
 
-    <small>Last update: 07/02/2001</small>
+    <small>Last update: 08/07/2001</small>
                
 #include "bottom.h"
