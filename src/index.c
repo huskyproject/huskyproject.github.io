@@ -7,6 +7,14 @@
       <tr>
       <tr>
         <td align="center" valign="top">
+          <strong>27/11/2001</strong>
+        </td>
+        <td align="justify">
+          <a href="msged.html">Msged 6.0.0</a> and
+          <a href="smapi.html">Smapi 2.0.0</a> available.
+        </td>
+      </tr><tr>
+        <td align="center" valign="top">
           <strong>12/04/2001</strong>
         </td>
         <td align="justify">

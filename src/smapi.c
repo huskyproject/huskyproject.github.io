@@ -19,14 +19,20 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-2.0.0-src.tar.gz"><tt>smapi-2.0.0-src.tar.gz</tt></a><br>
+            </td>
+            <td>newest release: smapi 2.0.0-stable source code</td>
+          </tr>
+
+          <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.4b-src.tar.gz"><tt>smapi-1.6.4b-src.tar.gz</tt></a><br>
             <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.4b-src.zip"><tt>smapi-1.6.4b-src.zip</tt></a>
             </td>
-            <td>current release: smapi 1.6.4b-stable source code</td>
+            <td>older release: smapi 1.6.4b-stable source code</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/smapi-1.6.2.tar.gz"><tt>smapi-1.6.2.tar.gz</tt></a></td>
-            <td>old release: smapi 1.6.2 source code</td>
+            <td>very old release: smapi 1.6.2 source code</td>
           </tr>
           <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/smapi-current-latest.tar.gz"><tt>smapi-latest.tar.gz</tt></a></td>
@@ -42,6 +48,6 @@
       </blockquote>
 
 
-      <small>Last update: 01/11/2000</small>
+      <small>Last update: 27/11/2001</small>
 
 #include "bottom.h"

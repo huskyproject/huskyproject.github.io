@@ -15,6 +15,7 @@
         Dependencies:
         <ul>
           <li>msged-current requires fidoconf-current, smapi-current and huskybse-current from the same day</li>
+          <li>msged te 6.0.0 requires smapi 2.0</li>
           <li>msged te 05 requires smapi 1.6.2</li>
         </ul>
       </blockquote>
@@ -23,8 +24,16 @@
       <blockquote>
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
-            <td>n/a</td>
-            <td>current release</td>
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/msged-6.0.0-src.tar.gz"><tt>msged-6.0.0-src.tar.gz</tt></a></td>
+            <td>newest release, source code</td>
+          </tr>
+          <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/msged-6.0.0-os2.zip"><tt>msged-6.0.0-os2.zip</tt></a></td>
+            <td>newest release, OS/2 version</td>
+          </tr>
+          <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/msged-6.0.0-dos.zip"><tt>msged-6.0.0-dos.zip</tt></a></td>
+            <td>newest release, DOS version</td>
           </tr>
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de/tobi/bin/MSGTE5_S.ZIP"><tt>MSGTE5_S.ZIP</tt></a></td>
@@ -50,6 +59,6 @@
       </blockquote>
 
 
-      <small>Last update: 01/06/2001</small>
+      <small>Last update: 27/11/2001</small>
 
 #include "bottom.h"
