@@ -31,7 +31,7 @@ all:	index.html \
 	huskybse.html
 
 %.html: %.c
-	$(CC) -E -P -o $*.html $*.c
+	$(CC) -E -P -C -o $*.html $*.c
 
 clean:
 	-$(RM) *.html
