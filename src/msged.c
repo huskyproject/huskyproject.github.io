@@ -32,6 +32,10 @@
             <td>newest release, OS/2 version</td>
           </tr>
           <tr valign="top">
+            <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/msged-6.0.0-win.zip"><tt>msged-6.0.0-win.zip</tt></a></td>
+            <td>newest release, Windows version</td>
+          </tr>
+          <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/msged-6.0.0-dos.zip"><tt>msged-6.0.0-dos.zip</tt></a></td>
             <td>newest release, DOS version</td>
           </tr>
