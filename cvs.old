@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Husky CVS Homepage - Information about CVS (How do I use it?)</TITLE>
+<META content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+<META content="Linux Fidosoft Project" name=description>
+<META
+content="cvs, ftn, fido, fidonet, tosser, mailer, editor, bbs, ticker, hatch, linux, unix, freeware, gpl"
+name=keywords>
+<META content="english, com, uk, deutsch, de" name=language>
+<!--
+$Id$
+$Log$
+Revision 1.9  2000/02/29 05:53:58  tw
+added diff-ml info
+
+Revision 1.8  2000/02/05 09:14:40  tw
+...
+
+Revision 1.7  2000/02/05 08:40:39  tw
+...
+
+Revision 1.6  2000/02/05 08:30:33  tw
+Just a test using cvs keywords (Date, Log) 
+ 
+-->
+</HEAD>
+<BODY background=background.gif link=#c00000 vLink=#800080><BASEFONT
+face=tahoma,helv,helvetica>
+<TABLE bgColor=#cccccc border=1 width="100%">
+  <TBODY>
+  <TR bgColor=#ffffff>
+    <TD>
+      <DIV align=center><BIG>Information about CVS (How do I use
+    it?)</BIG></DIV></TD></TR></TBODY></TABLE>
+<P><img src="cvs.gif" width="54" height="52">
+   CVS is a source code repository maintainance system, which allows a group of
+   developers located at distant places to work at the same source code over
+   the internet.  This sounds complicated at first, but using CVS is really
+   easy, even if you have never used it before.  If you want to contribute to
+   the Husky project (and be it only for making some bug fixes from time to
+   time), we suggest you install CVS and get a login to our CVS server.</P>
+   <P>In the following, you can see a very little introduction
+   how CVS works and how you should and can use it, once you have gotten your
+   account.  If you want to know CVS in more detail, please also read the
+   documentation (info-pages) of CVS. They are very instructive.
+<P>
+<OL>
+  <LI><I>Note:</I> This description only covers the command line version of CVS.
+    However, if you are using a GUI version, the steps are the same, but there
+    might be some differences and problems.
+    <P></P>
+  <LI>All CVS commands require a connection to the CVS server.
+    <P></P>
+  <LI><A href="http://www.cyclic.com/cyclic-pages/howget.html">Get CVS</A> for
+    your platform and install it. Please be sure to use at least version 1.10.
+    <BR>
+    Do not use CVS under different platforms on the same work source tree. <BR>
+    Do not use one working directory for more then one CVS connection.
+    <P></P>
+  <LI>Recommended settings for CVS (add to .cvsrc in your home directory):<BR>
+    <CODE>&nbsp;&nbsp;cvs -z3<BR>
+    &nbsp;&nbsp;checkout -P<BR>
+    &nbsp;&nbsp;update -P<BR>
+    &nbsp;&nbsp;diff -c </CODE>
+    <P></P>
+  <LI>Login into the CVS Server:
+    <UL>
+      <LI>If you want to use the CVS server with weite access, send a netmail
+        to 2:2476/418 or an email to <a href="mailto:tobi@bland.fido.de">Tobias
+        Ernst</a> with your real name and fido- or othernet-aka. You will receive
+        an ID (normally <I><KBD>&lt;firstname&gt;.&lt;lastname&gt;</KBD></I>)
+        and a password. <BR>
+
+<!--      <LI>If you want readonly access to the CVS server, you can use the anonymous
+        login: Use <KBD>anonymous</KBD> as ID and <KBD>anonymous</KBD> as password.
+        <BR> -->
+      </LI>
+    </UL>
+    <UL>
+      <LI>Set the environment variable CVSROOT to <KBD>:pserver:<I>&lt;ID&gt;</I>@cvs.physcip.uni-stuttgart.de:/cvs2</KBD>
+        <BR>
+      <LI>Type <KBD>cvs login</KBD> to "login" the CVS Server. CVS will ask you
+        for a password that will be checked and stored if it is correct.<BR>
+        <I>Note:</I> Login here does not mean that you're holding a permanent
+        connection to the CVS server. A new connection will be established everytime
+        when required. All login-information will be stored in a local file called
+        <KBD>.cvspass</KBD> in your <I>home</I> directory (and deleted after logout),
+        some additional information will be stored in a directory <KBD>CVS</KBD>
+        under the <I>working</I> directory.
+        <P></P>
+      </LI>
+    </UL>
+  <LI>Get your work source tree:
+    <UL>
+      <LI>Type <KBD>cvs co . </KBD>to checkout the latest version of the husky
+        source tree of all modules on the cvs-server. A new directory for any
+        module will be created in the current directory containing the sources.
+      <LI>Type <KBD></KBD><KBD>cvs co <I>&lt;module&gt;</I> [...] </KBD>for one
+        or more modules. To get a list of all mudules type: <KBD>cvs history .
+        </KBD>
+        <P></P>
+        <!--
+      <LI>[ If you want to checkout an earlier version, type <KBD>cvs co -r &lt;tag&gt;
+        <i>module</i> </KBD> and you will get Beta-&lt;tag&gt;. ]
+        <P></P> </LI> --></LI>
+    </UL>
+  <LI>Do your modifications:
+    <UL>
+      <LI>Please group them together to match one log message. Do not do thousands
+        of completely different modifications that do not depend on each other.
+        As CVS saves the log message you enter with every file you have modified
+        it is not very clever to do a long list of changes.<BR>
+        I.e. if you want to implement a new feature and fix a bug in an already
+        existing module that is independent to the new feature, first fix the
+        bug and commit the changes (see below) and then implement the new feature.
+        <!--<br>
+      <LI>[ Use gnu indent on the sources you have modified to make sure they
+        match the style guide! This is important because if two developers do
+        the same changes, CVS can resolve this only if they are really identical.<BR>
+        Indent also really helps keeping the source readable. Please read stylguid.txt
+        in the source tree for more details. ] --><BR>
+      <LI>Make sure your sources are compileable!
+        <P></P>
+      </LI>
+    </UL>
+  <LI>To see what you or others have changed:
+    <UL>
+      <LI>If you want to review the changes you have done type <KBD>cvs diff</KBD>
+        . This will create a diff file. If you are using the above settings it
+        will create a context diff which is IMHO easier to read. <BR>
+      <LI>You can also use <KBD>cvs diff <I>&lt;file&gt;</I> [...]</KBD> to only
+        see the changes of the file(s) you have specified. <!--
+      <LI>If you want to see the changes done from one revision to another use
+        <KBD>cvs diff -r &lt;rev1&gt; -r &lt;rev2&gt; [&lt;file(s)&gt;]</KBD>
+        where &lt;rev1&gt; and &lt;rev2&gt; can be tags (i.e. <CODE>XH3</CODE>)
+        or revision numbers (i.e. <CODE>1.2</CODE>). -->
+        <P></P>
+      </LI>
+    </UL>
+  <LI>Update your work source tree:
+    <UL>
+      <LI>Type <KBD>cvs up</KBD> in the root directory of your work source tree
+        to update it. This is only necessary when other developers committed changes.
+        <BR>
+      <LI>If there were conflicts, you will be notified by CVS and you have to
+        resolve them by hand. CVS will save the two conflicting parts and mark
+        them for you.
+        <P></P>
+      </LI>
+    </UL>
+  <LI>Commit your changes: (only non-anonymous users)
+    <UL>
+      <LI>Type <KBD>cvs ci [<I>&lt;file&gt;</I> [...]]</KBD> to commit your changes.
+        If you use <KBD>cvs ci</KBD> in the root directory of your work source
+        tree, all modified files will be committed. <BR>
+      <LI>You will be asked for a log entry. Please read the notes in the template 
+        and enter a detailed description. This description will also be used in 
+        the changes.log.<BR>
+        <I>Note:</I> if you are using a GUI version of CVS that does not use "<CODE>CVS:</CODE>"
+        to mark comments in a template, you must remove all lines starting with
+        "<CODE>CVS:</CODE>" by hand.
+        <P></P>
+      </LI>
+    </UL>
+    <BLOCKQUOTE>
+      <P>If you forget to update and another developer committed changes to the
+        same file, your commit will be rejected. </P>
+    </BLOCKQUOTE>
+  </LI>
+</OL>
+<A
+href="index.html">back to husky homepage</A>
+<HR>
+
+<DIV align=center><FONT size=1>about this page: <BR>Thanks to <A
+href="mailto:mr@uue.org">Michael Reinsch</A> fom BTXE developers team for the
+original.<BR>
+  please send your comments, additions, hints about errors to: <A
+href="mailto:winter@sar-gmbh.com">winter@sar-gmbh.com</A></FONT></DIV>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD vAlign=top><FONT size=1>mantaind by Husky Team</FONT><BR>
+    </TD>
+    <TD align=right vAlign=top><FONT size=1>$Id: cvs.html,v 
+      1.3 2000/01/15 17:28:34 tw Exp $</FONT></TD>
+  </TR></TBODY></TABLE></BODY></HTML>
