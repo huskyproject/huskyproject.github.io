@@ -34,15 +34,15 @@
 
       <p>If you cant live without the newest versions, or you just want to
       test/have the new functions of the programs, you need the latest Husky
-      versions. These are build directly from the Husky CVS-Server !
+      versions. These are build directly from Sources from the Husky CVS-Server !
       You could <STRONG>not use</STRONG> one stable Package with one unstable
       package. You have to upgrade <STRONG>all</STRONG> your Packages to this
       unstable versions ! (The Dependencies in the Packages will force you to
-      do so).<br>
+      do so (i hope)).<br>
       There is <STRONG>NO</STRONG> Warranty that this Packages are working !
       If you find bugs in the Packages please inform the Package-Maintainer
       (see <a href="team.html">Team-Page</a>). If you find bugs in the
-      Programs itself please inform the Maintainer of this program.
+      Programs itself please inform the Maintainer of the buggy program.
       </p>
       
       <p> You really want the newest Packages available ? Then insert the 
@@ -60,6 +60,6 @@
 
       </blockquote>
 
-      <small>Last update: 08/07/2001</small>
+      <small>Last update: 08/08/2001</small>
 
 #include "bottom.h"
