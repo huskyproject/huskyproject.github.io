@@ -6,6 +6,7 @@
 
     <table summary="Members" align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
 
+      <!-- Alexander Anistratenko -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Alexander Anistratenko</h3>
@@ -43,6 +44,7 @@
          <td><b>Projects:</b></td>
          <td><a href="hpt.html">hpt</a> bug fixing</td>
 
+      <!-- Dmitry Sergienko -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Dmitry Sergienko</h3>
@@ -80,7 +82,7 @@
          <td><b>Projects:</b></td>
          <td><a href="bsopack.html">bsopack</a></td>
 
-
+      <!-- German Theler -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Germ&aacute;n Theler</h3>
@@ -118,7 +120,48 @@
          <td><b>Projects:</b></td>
          <td><a href="emailpkt.html">emailpkt</a></td>
 
+      <!-- Jorg Jaspert -->
+      <tr>
+      <td colspan="4" align="center">
+      <h3 style="color: #3333AA">J&ouml;rg Jaspert</h3>
+      </td>
 
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="9">
+          No picture available
+        </td>
+        <td width="30" rowspan="9">
+          &nbsp;
+        </td>
+
+      <tr>
+        <td><b>Age:</b></td>
+        <td>24</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Germany</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Fulda</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:2435/109</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:joerg@goliathbbs.dnsalias.net">joerg@goliathbbs.dnsalias.net</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td>Nope</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>joerg.jaspert</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="debian.html">Debian Packages</a></td>
+
+      </tr>
+
+      <!-- Matthias Tichy -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Matthias Tichy</h3>
@@ -197,6 +240,45 @@
          <td><b>Projects:</b></td>
          <td><a href="hpt.html">hpt</a></td>
 
+      <!-- Michael Haase -->
+      <tr>
+      <td colspan="4" align="center">
+        <h3 style="color: #3333AA">Michael Haase</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="8">
+          <img src="micha.jpg" width="100" height="139" alt="Micha">
+        </td>
+        <td width="30" rowspan="8">
+          &nbsp;
+        </td>
+
+        <td><b>Age:</b></td>
+        <td>24</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Germany</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Kreuztal</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:2457/280</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:m.haase@gmx.net">m.haase@gmx.net</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td><a href="http://www.fido-deluxe.de.vu/">www.fido-deluxe.de.vu/</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>mhaase</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="hpt.html">hpt</a></td>
+
+      <!-- Nestyurkin Nikolay -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Nestyurkin Nikolay</h3>
@@ -238,12 +320,11 @@
          <td><a href="hpt.html">hpt</a></td>
 
 
-
+      <!-- Sascha Silbe -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Sascha Silbe</h3>
       </td>
-
 
      <tr>
         <td width="100" align="center" valign="center" rowspan="10">
@@ -284,6 +365,48 @@
          <td><a href="protick.html">protick</a></td>
 
 
+      <!-- Stas Degteff -->
+      <tr>
+      <td colspan="4" align="center">
+      <h3 style="color: #3333AA">Stas Degteff</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="9">
+          No picture available
+        </td>
+        <td width="30" rowspan="9">
+          &nbsp;
+        </td>
+
+      <tr>
+        <td><b>Age:</b></td>
+        <td>33 (in 2002)</td>
+      <tr>
+        <td><b>Country:</b></td>
+        <td>Russia</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Ekaterinburg</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>2:5080/102</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:g@ural.org">g@ural.org</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td><a href=http://home.grumbler.org>http://home.grumbler.org</a></td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>stas_degteff</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td><a href="emailpkt.html">EmailPkt</a>
+         <br>Fixes and updates in: fidoconf, hpt, htick, nltools
+         </td>
+
+      <!-- Sven Bursch -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Sven Bursch</h3>
@@ -322,6 +445,7 @@
          <td><a href="ffma.html">ffma</a></td>
 
 
+      <!-- Tobias Ernst -->
       <tr>
       <td colspan="4" align="center">
         <h3 style="color: #3333AA">Tobias Ernst</h3>
@@ -371,85 +495,11 @@
          <td>&nbsp;</td>
          <td><a href="diskpoll.html">diskpoll</a></td>
 
-      <tr>
-      <td colspan="4" align="center">
-        <h3 style="color: #3333AA">Michael Haase</h3>
-      </td>
-
-      <tr>
-        <td width="100" align="center" valign="center" rowspan="8">
-          <img src="micha.jpg" width="100" height="139" alt="Micha">
-        </td>
-        <td width="30" rowspan="8">
-          &nbsp;
-        </td>
-
-        <td><b>Age:</b></td>
-        <td>24</td>
-      <tr>
-        <td><b>Country:</b></td>
-        <td>Germany</td>
-      <tr>
-        <td><b>City:</b></td>
-        <td>Kreuztal</td>
-      <tr>
-        <td><b>FidoNet:</b></td>
-        <td>2:2457/280</td>
-      <tr>
-        <td><b>Email:</b></td>
-        <td><a href="mailto:m.haase@gmx.net">m.haase@gmx.net</a></td>
-      <tr>
-        <td><b>Homepage:</b></td>
-        <td><a href="http://www.fido-deluxe.de.vu/">www.fido-deluxe.de.vu/</td>
-      <tr>
-        <td><b>CVS username:</b></td>
-        <td>mhaase</td>
-      <tr>
-         <td><b>Projects:</b></td>
-         <td><a href="hpt.html">hpt</a></td>
-
-
-      <tr>
-      <td colspan="4" align="center">
-      <h3 style="color: #3333AA">J&ouml;rg Jaspert</h3>
-      </td>
-
-      <tr>
-        <td width="100" align="center" valign="center" rowspan="9">
-          No picture available
-        </td>
-        <td width="30" rowspan="12">
-          &nbsp;
-        </td>
-
-        <td><b>Age:</b></td>
-        <td>24</td>
-      <tr>
-        <td><b>Country:</b></td>
-        <td>Germany</td>
-      <tr>
-        <td><b>City:</b></td>
-        <td>Fulda</td>
-      <tr>
-        <td><b>FidoNet:</b></td>
-        <td>2:2435/109</td>
-      <tr>
-        <td><b>Email:</b></td>
-        <td><a href="mailto:joerg@goliathbbs.dnsalias.net">joerg@goliathbbs.dnsalias.net</a></td>
-      <tr>
-        <td><b>Homepage:</b></td>
-        <td>Nope</td>
-      <tr>
-        <td><b>CVS username:</b></td>
-        <td>joerg.jaspert</td>
-      <tr>
-         <td><b>Projects:</b></td>
-         <td><a href="debian.html">Debian Packages</a></td>
 
     </table>
 
     <p>  
 
-    <small>Last update: 05/08/2001</small>
+    <small>Last update: 24/08/2002</small>
 
 #include "bottom.h"
