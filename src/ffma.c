@@ -12,17 +12,39 @@
         <ul>
           <li>Linux
         </ul>
-      </blockquote>
+        Dependencies:
+        <ul>
+          <li>ffma-current requires fidoconf-current, smapi-current from the same day and fpc-Pacal 1.00 (or better) </li>
+          <li>ffma 0.08.00 requires fidoconf-0.10-stable, smapi-1.6.4-stable and fpc-Pascal 0.99.15 (or better)</li>
+        </ul>
+		</blockqoute>
 
-      <h3>Latest stable version</h3>
+      <h3>Downloads</h3>
       <blockquote>
-        None
-      </blockquote>
-
-      <h3>Latest development version</h3>
-      <blockquote>
-        Source: <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/ffma-latest.tar.gz">CVS</a><br>
-		Binary: <a href="http://www.uni-duisburg.de/~sa519bu/ffma/">www.uni-duisburg.de/~sa519bu/ffma</a>
+        <table cellpadding="5" cellspacing="0" border="0">
+          <tr valign="top">
+          	<td>
+          		<a href="http://www.uni-duisburg.de/~sa519bu/ffma/ffma-0.08.00-src.zip"><tt>ffma-0.08.00-src.zip</tt></a>
+	 	    </td>
+	        <td>
+            	current release:<br>ffma 0.08.00-beta<br>source code
+    	    </td>
+          </tr>
+          
+          <tr valign="top">
+            <td>
+            	<a href="http://www.uni-duisburg.de/~sa519bu/ffma/ffma-0.08.00-lnx.zip"><tt>ffma-0.08.00-lnx.zip</tt></a>
+  	        </td>
+            <td>
+            	current release:<br> ffma 0.08.00-beta<br>Linux-binary version
+            </td>
+          </tr>
+          
+          <tr valign="top">
+            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/ffma-latest.tar.gz"><tt>ffma-latest.tar.gz</tt></a></td>
+            <td>unstable development cvs snapshot</td>
+          </tr>
+        </table>
       </blockquote>
 
       <h3>Contacting the author</h3>
@@ -34,6 +56,6 @@
       </blockquote>
 
 
-      <small>Last update: 24/04/2000</small>
+      <small>Last update: 22/07/2000</small>
  
 #include "bottom.h"
