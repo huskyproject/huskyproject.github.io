@@ -20,4 +20,7 @@
       our Debian-Page.</a>. You could install the Husky-Programs using the normal 
       and easy Debian-way (apt-get, dselect,...).</p>
 
+      <p>If you are using BeOS take a look at <a href="http://walther.sf.net">
+      Walther: Fidonet for BeOS</a> page.</p>
+
 #include "bottom.h"
