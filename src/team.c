@@ -174,7 +174,7 @@
         </td>
 
         <td><b>Age:</b></td>
-        <td>20</td>
+        <td>21</td>
       <tr>
         <td><b>Country:</b></td>
         <td>Russia, West Siberia</td>
@@ -189,7 +189,7 @@
         <td><a href="mailto:sackett@mail.ru">sackett@mail.ru</a></td>
       <tr>
         <td><b>Homepage:</b></td>
-        <td>none</td>
+        <td><a href="http://www.sinor.ru/~sackett">http://www.sinor.ru/~sackett</a></td>
       <tr>
         <td><b>CVS username:</b></td>
         <td>ml</td>
@@ -377,10 +377,10 @@
       </td>
 
       <tr>
-        <td width="100" align="center" valign="center" rowspan="12">
+        <td width="100" align="center" valign="center" rowspan="8">
           <img src="micha.jpg" width="100" height="139" alt="Micha">
         </td>
-        <td width="30" rowspan="12">
+        <td width="30" rowspan="8">
           &nbsp;
         </td>
 
@@ -411,7 +411,7 @@
 
       <tr>
       <td colspan="4" align="center">
-        <h3 style="color: #3333AA">J&ouml;rg Jaspert</h3>
+      <h3 style="color: #3333AA">J&ouml;rg Jaspert</h3>
       </td>
 
       <tr>
@@ -450,6 +450,6 @@
 
     <p>  
 
-    <small>Last update: 08/07/2001</small>
-               
+    <small>Last update: 05/08/2001</small>
+
 #include "bottom.h"
