@@ -20,6 +20,9 @@
         <dd><a href="stable.html">Stable Husky</a>
         <dd><a href="dl2.html">Download</a>
         <dd><a href="debian.html">Debian Packages</a>
+        <dt><b>What do I need?</b>
+        <dd><a href="point.html">Point</a>
+        <dd><a href="node.html">Node</a>
         <dt><b>Basic Files</b>
         <dd><a href="huskybse.html">huskybse</a>
         <dd><a href="smapi.html">smapi</a>
@@ -58,3 +61,4 @@
     <td width="10"></td>
     <td align="justify" valign="top">
 
+<!-- Navigation bar ends. -->

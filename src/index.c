@@ -139,10 +139,8 @@
 
       <h3>CVS Server</h3>
       <blockquote>
-        If you want write access to our cvs-server, send a netmail to 2:2476/418
-        or an email to
-        <a href="mailto:tobi@physcip.uni-stuttgart.de?subject=write%20access%20to%20Husky%20CVS%20Server">Tobias
-      Ernst</a> with your real name and Fido or othernet-aka.
+        If you want write access to our cvs-server, register into sourceforge.net
+        and write message to one of Husky Project Managers.
       <a href="cvs.html">Read more about our cvs-server...</a><br>
       Daily snapshots and daily diff files are available as <em>tar.gz</em> files.
 
@@ -152,7 +150,7 @@
         <li>via mailinglist: (husky-diffs@lists.sourceforge.net). You can
           subscribe/unsubscribe using
           <a href="http://lists.sourceforge.net/mailman/listinfo/husky-diffs">lists.sourceforge.net</a>
-        <li>via http from <a href="http://cvs.physcip.uni-stuttgart.de/cvs2">here</a>.
+        <li>via http from <a href="cvs2">here</a> (Debian Linux packages: <a href="debian">here</a>
       </ul>
 
       You should understand that the latest snapshot archives are generated automatically,
@@ -172,6 +170,6 @@
       gated mailinglist).
     </blockquote>
 
-    <small>Last update: 27/11/2001</small>
+    <small>Last update: 23/08/2002</small>
 
 #include "bottom.h"

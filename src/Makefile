@@ -36,7 +36,7 @@ all:	index.html \
 #	fastlst.html
 
 %.html: %.c
-	$(CC) -E -P -C -o $*.html $*.c
+	$(CC) -E -P -C -o ..$(DIRSEP)$*.html $*.c
 
 clean:
 	-$(RM) $(RMOPT) *.html

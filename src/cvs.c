@@ -34,20 +34,14 @@
     &nbsp;&nbsp;diff -c </CODE>
      <li>Login into the CVS Server:
        <ul>
-         <li>If you want to use the CVS server with write access, send a netmail
-         to 2:2476/418 or an email to <a href="mailto:tobi@bland.fido.de">Tobias
-         Ernst</a> with your real name and fido- or othernet-aka. You will receive
-         an ID (normally <i><kbd>&lt;firstname&gt;.&lt;lastname&gt;</kbd></i>)
-         and a password.
-         <li>Set the environment variable CVSROOT to <kbd>:pserver:<i>&lt;ID&gt;</i>@cvs.physcip.uni-stuttgart.de:/cvs2</kbd>
-         <li>Type <kbd>cvs login</kbd> to "login" the CVS Server. CVS will ask you
-         for a password that will be checked and stored if it is correct.<br>
-         <i>Note:</i> Login here does not mean that you are holding a permanent
-         connection to the CVS server. A new connection will be established everytime
-         when required. All login-information will be stored in a local file called
-         <kbd>.cvspass</kbd> in your <i>home</i> directory (and deleted after logout),
-         some additional information will be stored in a directory <kbd>CVS</kbd>
-         under the <i>working</i> directory.
+         <li>If you want to use the CVS server with write access, register into
+         sourceforge.net and write mail to husky project manager, currently 
+         <a href=mailto:d_sergienko@users.sourceforge.net>Dmitry Sergienko</a>
+         <li>Read <a href=https://sourceforge.net/cvs/?group_id=1332>Project: husky: CVS</a>
+         page and doing as here write.
+         <br>OR
+         <li>Set the environment variable CVS_RSH to <kbd>ssh</kbd>
+         <li>Set the environment variable CVSROOT to <kbd>:ext:<i>&lt;developername&gt;</i>@cvs.husky.sourceforge.net:/cvsroot/husky</kbd>
        </ul>
      <li>Get your work source tree:
        <ul>
@@ -107,6 +101,6 @@
       <small>Thanks to <a href="mailto:mr@uue.org">Michael Reinsch</A> fom BTXE developers team for the original.</small>
       </p>
           
-      <small>Last update: 08/04/2000</small>
+      <small>Last update: 23/08/2002</small>
                
 #include "bottom.h"
