@@ -36,7 +36,7 @@ all:	index.html \
 	$(CC) -E -P -C -o $*.html $*.c
 
 clean:
-	-$(RM) *.html
+	-$(RM) $(RMOPT) *.html
 
 distclean: clean
 
