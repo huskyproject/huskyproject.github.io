@@ -37,7 +37,7 @@
       <p>You should understand that the latest snapshot archives are generated
       automatically, are untested, and can contain all sorts of bugs and
       problems. If you are a new user, you should not start with the
-      snapshots. Instead, try getting a <a href="stable">stable</a> version.
+      snapshots. Instead, try getting a <a href="stable.html">stable</a> version.
       </p>
 
       </blockquote>
