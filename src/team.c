@@ -341,6 +341,6 @@
 
     <p>  
 
-    <small>Last update: 03/05/2000</small>
+    <small>Last update: 15/05/2000</small>
                
 #include "bottom.h"
