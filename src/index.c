@@ -165,6 +165,6 @@
       gated mailinglist).
     </blockquote>
 
-    <small>Last update: 12/04/2000</small>
+    <small>Last update: 27/11/2001</small>
 
 #include "bottom.h"
