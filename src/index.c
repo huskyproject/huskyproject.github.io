@@ -9,7 +9,7 @@
           <strong>18/07/2000</strong>
         </td>
         <td align="justify">
-          Release Day of hpt, fidoconf, smapi, nltools, htick, sqpack, huskybse!
+          New Release of the Husky core tools hpt, fidoconf, smapi, nltools, htick, sqpack and huskybse!
         </td>
       </tr>
       <tr>
