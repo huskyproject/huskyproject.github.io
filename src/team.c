@@ -255,10 +255,10 @@
       </td>
 
       <tr>
-        <td width="100" align="center" valign="center" rowspan="9">
+        <td width="100" align="center" valign="center" rowspan="8">
           No picture available
         </td>
-        <td width="30" rowspan="9">
+        <td width="30" rowspan="8">
           &nbsp;
         </td>
 
