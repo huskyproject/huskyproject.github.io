@@ -542,10 +542,47 @@
          <td><a href="diskpoll.html">diskpoll</a></td>
 
 
+      <!-- Robert James Clay-->
+      <tr>
+      <td colspan="4" align="center">
+        <h3 style="color: #3333AA">Robert James Clay</h3>
+      </td>
+
+      <tr>
+        <td width="100" align="center" valign="center" rowspan="12">
+           No Picture available
+        </td>
+        <td width="30" rowspan="12">
+          &nbsp;
+        </td>
+
+      <tr>
+        <td><b>Country:</b></td>
+        <td>U.S.A.</td>
+      <tr>
+        <td><b>City:</b></td>
+        <td>Farmington Hills, Michigan</td>
+      <tr>
+        <td><b>FidoNet:</b></td>
+        <td>1:120/546</td>
+      <tr>
+        <td><b>Email:</b></td>
+        <td><a href="mailto:jame@users.sourceforge.net">jame@users.sourceforge.net</a></td>
+      <tr>
+        <td><b>Homepage:</b></td>
+        <td><a href="http://robertjamesclay.homeip.net">robertjamesclay.homeip.net</td>
+      <tr>
+        <td><b>CVS username:</b></td>
+        <td>jame</td>
+      <tr>
+         <td><b>Projects:</b></td>
+         <td>Web Admin for Husky web site</td>
+      </tr>
+
     </table>
 
     <p>  
 
-    <small>Last update: 24/08/2002</small>
+    <small>Last update: 06/12/2006</small>
 
 #include "bottom.h"
