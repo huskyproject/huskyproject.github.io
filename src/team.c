@@ -439,7 +439,7 @@
         <td>2:5080/102</td>
       <tr>
         <td><b>Email:</b></td>
-        <td><a href="mailto:g@ural.org">g@ural.org</a></td>
+        <td><a href=mailto:stas_degteff@users.sourceforge.net>Stas Degteff</a></td>
       <tr>
         <td><b>Homepage:</b></td>
         <td><a href=http://home.grumbler.org>http://home.grumbler.org</a></td>
@@ -449,7 +449,7 @@
       <tr>
          <td><b>Projects:</b></td>
          <td><a href="emailpkt.html">EmailPkt</a>
-         <br>Fixes and updates in: fidoconf, hpt, htick, nltools
+         <br>Fixes and updates in: smapi, areafix, fidoconf, hpt, htick, nltools
          </td>
 
       <!-- Sven Bursch -->
