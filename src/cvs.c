@@ -72,7 +72,7 @@
          <li>If you want to use the CVS server with write access (you is
          developer), register self into
          sourceforge.net and write mail to husky project manager, currently 
-         <a href=mailto:d_sergienko@users.sourceforge.net>Dmitry Sergienko</a>
+         <a href=mailto:stas_degteff@users.sourceforge.net>Stas Degteff</a>
          <li>Read <a href=https://sourceforge.net/cvs/?group_id=1332>Project: husky: CVS</a>
          page and doing as here write.
          <br>(Set the environment variable CVS_RSH to <kbd>ssh</kbd> and Use
