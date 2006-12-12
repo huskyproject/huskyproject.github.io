@@ -439,7 +439,7 @@
         <td>2:5080/102</td>
       <tr>
         <td><b>Email:</b></td>
-        <td><a href=mailto:stas_degteff@users.sourceforge.net>Stas Degteff</a></td>
+        <td><a href=mailto:stas_degteff@users.sourceforge.net>stas_degteff@users.sourceforge.net</a></td>
       <tr>
         <td><b>Homepage:</b></td>
         <td><a href=http://home.grumbler.org>http://home.grumbler.org</a></td>
