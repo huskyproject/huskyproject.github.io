@@ -19,7 +19,7 @@
         <dd><a href="current.html">Current Husky</a>
         <dd><a href="stable.html">Stable Husky</a>
         <dd><a href="dl2.html">Download</a>
-        <dd><a href="debian/">Debian Packages</a>
+        <dd><a href="debian.html">Debian Packages</a>
         <dt><b>What do I need?</b>
         <dd><a href="point.html">Point</a>
         <dd><a href="node.html">Node</a>
