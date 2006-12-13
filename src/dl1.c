@@ -13,7 +13,7 @@
       <p>There are two branches of Husky development: current Husky, and stable
       Husky. Users should usually use the stable release versions.</p>
 
-      <p>Husky packages have interdepencies, i.E. if you have chosen a certain
+      <p>Husky packages have interdependencies;  I.E., if you have chosen a certain
       version of the basic packages, you must choose the matching version of
       the program packages.</p>
 
@@ -48,7 +48,7 @@
       tools.</p>
 
       <p>For Debian GNU/Linux Users there are Packages available now.
-      Take a look <a href="debian/">here.</a></p>
+      Take a look&nbsp;<a href="debian.html">here.</a></p>
       
       </blockquote>
 
