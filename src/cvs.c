@@ -4,8 +4,8 @@
    <h3>What is CVS?</h3>
 
    <blockquote>
-     CVS is a source code repository maintainance system, which allows a group of
-     developers located at distant places to work at the same source code over
+     CVS is a source code repository maintenance system, which allows a group of
+     developers located at distant places to work on the same source code over
      the internet.  This sounds complicated at first, but using CVS is really
      easy, even if you have never used it before.  If you want to contribute to
      the Husky project (and be it only for making some bug fixes from time to
@@ -22,10 +22,10 @@
     However, if you are using a GUI version, the steps are the same, but there
     might be some differences and problems.
      <li>All CVS commands require a connection to the CVS server.
-     <li><A href="http://www.cvshome.org/dev/codes.html">Get CVS</A> for
+     <li><a href="http://www.cvshome.org/dev/codes.html">Get CVS</a>&nbsp;for
     your platform and install it. Please be sure to use at least version 1.10.
     <dir><small>Note for windows users:<br>
-    Please use <a href=http://www.cygwin.com>cygwin</a> version of CVS
+    Please use&nbsp;<a href="http://www.cygwin.com">cygwin</a>&nbsp;version of CVS
     if possible - to prevent unexpected CR-CRLF translation.
     </small></dir>
     Do not use CVS under different platforms on the same work source tree.<br>
@@ -41,30 +41,31 @@
          If You have only retrieve and install latest sources follow the following procedure:
          <p>
          <blockquote>
-         <kbd>cvs -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/husky login</kbd>
+         <kbd>cvs -d:pserver:anonymous@husky.cvs.sourceforge.net:/cvsroot/husky login</kbd>
          </blockquote>
          and press <kbd>enter</kbd> where the <kbd>password:</kbd> prompted.
          (Login required for first cvs connect to this repository only.)
          <blockquote>
-         <kbd>cvs -z3 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/husky co smapi fidoconf ...</kbd>
+         <kbd>cvs -z3 -d:pserver:anonymous@husky.cvs.sourceforge.net:/cvsroot/husky co smapi fidoconf ...</kbd>
          </blockquote>
          to retrieve libraries and needed programs or<br>
          <blockquote>
-         <kbd>cvs -z9 -d:pserver:anonymous@cvs.sourceforge.net:/cvsroot/husky co .</kbd>
+         <kbd>cvs -z9 -d:pserver:anonymous@husky.cvs.sourceforge.net:/cvsroot/husky co .</kbd>
          </blockquote>
          to retrieve all modules.
          </p>
 
          <p>
-         To update existing sources tree use <kbd>up</kbd> cvs command instead <kbd>co</kbd>.
+         To update existing sources tree use cvs <kbd>up</kbd> command instead <kbd>co</kbd>.
          </p>
 
          <p>
          Check the file ChangeLog for infrmation about source changes.
          If you upgrade a cvs version then always do a make clean before
-         you get the next version from the cvs server. If you dont then
+         you get the next version from the cvs server. If you do not then
          in some cases there will be problems. It is also possible to browse
-         the cvs repository to get individual files. 
+         the cvs repository to get individual files: in order to do that online, 
+	 go to <a href="http://husky.cvs.sourceforge.net.husky/">http://husky.cvs.sourceforge.net.husky/</a>. 
          </p>
 
      <li>Read-wrte access:
@@ -72,11 +73,11 @@
          <li>If you want to use the CVS server with write access (you is
          developer), register self into
          sourceforge.net and write mail to husky project manager, currently 
-         <a href=mailto:stas_degteff@users.sourceforge.net>Stas Degteff</a>
-         <li>Read <a href=https://sourceforge.net/cvs/?group_id=1332>Project: husky: CVS</a>
+         <a href="mailto:stas_degteff@users.sourceforge.net">Stas Degteff</a>
+         <li>Read <a href="https://sourceforge.net/cvs/?group_id=1332">Project: husky: CVS</a>
          page and doing as here write.
          <br>(Set the environment variable CVS_RSH to <kbd>ssh</kbd> and Use
-         cvsroot <kbd>:ext:<i>&lt;developername&gt;</i>@cvs.husky.sourceforge.net:/cvsroot/husky</kbd>
+         cvsroot <kbd>:ext:<i>&lt;developername&gt;</i>@husky.cvs.husky.sourceforge.net:/cvsroot/husky</kbd>
          using '-d' cvs option or set the environment variable CVSROOT to.)
        </ul>
      <li>Get your work source tree:
@@ -85,7 +86,7 @@
          source tree of all modules on the cvs-server. A new directory for any
          module will be created in the current directory containing the sources.
          <li>Type <kbd>cvs co <i>&lt;module&gt;</i> [...] </kbd> for one
-         or more modules. To get a list of all mudules type: <kbd>cvs history .
+         or more modules. To get a list of all modules type: <kbd>cvs history .
          </kbd>
        </ul>
      <li>Do your modifications:
@@ -94,7 +95,7 @@
          of completely different modifications that do not depend on each other.
          As CVS saves the log message you enter with every file you have modified
          it is not very clever to do a long list of changes.<br>
-         I.e. if you want to implement a new feature and fix a bug in an already
+         I.E., if you want to implement a new feature and fix a bug in an already
          existing module that is independent to the new feature, first fix the
          bug and commit the changes (see below) and then implement the new feature.
         <li>Make sure your sources are compileable!
@@ -137,6 +138,6 @@
       <small>Thanks to <a href="mailto:mr@uue.org">Michael Reinsch</A> fom BTXE developers team for the original.</small>
       </p>
           
-      <small>Last update: 14/11/2002</small>
+      <small>Last update: 13/12/2006</small>
 <!--*/>
 #include "bottom.h"
