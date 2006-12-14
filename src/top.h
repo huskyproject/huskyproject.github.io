@@ -13,20 +13,21 @@
 
 <html>
 <head><title>HUSKY - Portable Fido Software</title>
+  <meta name="keywords" content="Fidonet, FTN, Husky, BBS">
 
-<style type="text/css">
-<!--
-body {margin-top: 0; margin-left: 0;}
-a {text-decoration: none; font-weight: bold;}
-a:hover {color: #9999CC;}
-strong {color: #CC0000;}
-h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
-h3 {margin-top: 10; color: #333333;}
-h4 {margin-top: 0.1em; text-align: center;}
-}
+  <style type="text/css">
+  <!--
+  body {margin-top: 0; margin-left: 0;}
+  a {text-decoration: none; font-weight: bold;}
+  a:hover {color: #9999CC;}
+  strong {color: #CC0000;}
+  h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
+  h3 {margin-top: 10; color: #333333;}
+  h4 {margin-top: 0.1em; text-align: center;}
+  }
 
--->
-</style>
+  -->
+  </style>
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#666666">
