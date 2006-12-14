@@ -19,10 +19,10 @@
       of the current Husky snapshot it stems from, followed by the word
       <tt>release</tt>. Example: <tt>msged 6.0.0-release</tt></p>
 
-      <p>Starting in Fall 2001, the minor (second) version number of all stable branches will be divisible by 2, i.E. 0,2,4 and so on.
+      <p>Starting in Fall 2001, the minor (second) version number of all stable branches will be divisible by 2; I.E.  0,2,4 and so on.
       The stable branch as such is characterised by this second version number.</p>
 
-      <p>Before the software is released, it has the same version number as the release, but the postfix is <tt>-stable</tt> instead of <tt>-release</tt>.</p>
+      <p>Before the software is released, it has the same version number as the release, but the suffix is <tt>-stable</tt> instead of <tt>-release</tt>.</p>
 
       <h4>Maintenance Releases</h4>
 
@@ -33,7 +33,7 @@
       Example: <tt>msged 6.0.1-release</tt>. </p>
 
       <p>Generally, upgrading between software that differs only in
-      the patch version number, i.E. software from the same stable
+      the patch version number;  I.E., software from the same stable
       branch (same second version number) is straightforward:  Just
       plug the new executable in and go ahead.  There will be no
       linkage problems and no behaviour changes, only bug fixes.</p>
@@ -41,19 +41,19 @@
       <p>You may even upgrade to a new version of a dynamic library
       without having to recompile the software that uses this
       library (supposing you are using dynamic libraries / shared
-      objects of course).  E.g. you may upgrade from <tt>smapi
+      objects of course).  E.g., you may upgrade from <tt>smapi
       2.0.0-release</tt> to <tt>smapi 2.0.1-release</tt>.  That is
       why the branch is called stable.<p>
 
       <p>To clarify it, when a <i>new</i> stable branch is created, e.g. <tt>
       smapi 2.2-stable</tt>, you again have to be prepared for behaviour
-      changes e.t.c. when you upgrade from an older stable branch - only
+      changes etc. when you upgrade from an older stable branch - only
       upgrading <i>within</i> a single stable branch is troublefree. Again:
       When only the letter behind the version number changes, you do not have
       to worry. In all other situations, you do have to worry.</p>
 
       <p>In Software released prior to fall 2001, the versioning scheme was different. There, the patch
-      version number was designated by a letter, and the branch was designated by the second and thir version number
+      version number was designated by a letter, and the branch was designated by the second and third version number
       together. I.e., in old software, you could only safely upgrade when only the letter changed, while in new software, you
       can safely upgrade whenever the seond version number is the same.</p>
 
@@ -65,10 +65,10 @@
       clearly states which packages are required. For example, msged 6.0.0-release
       requires smapi 2.0-stable. This actually means that any stable version
       of msged 6.0 runs with any stable version of smapi 2.0. When new
-      maintainance releases with the same seond version number (but a different
+      maintenance releases with the same second version number (but a different
       third patch verison number) are made, you can choose to only ugprade msged, only
       upgrade smapi, or both. Of course, the higher the patch version number,
-      the lesser bugs will be there, but you do not have to
+      the fewer bugs that will be there, but you do not have to
       upgrade <i>everything</i> just to get <i>one</i> specific bug fix.
       </p>
 
