@@ -10,7 +10,9 @@
      easy, even if you have never used it before.  If you want to contribute to
      the Husky project (and be it only for making some bug fixes from time to
      time), we suggest you install CVS and get a login to our CVS server.
-     
+     If you would simply like to browse the CVS repository, in order to do that online, 
+     go to <a href="http://husky.cvs.sourceforge.net/husky/">http://husky.cvs.sourceforge.net/husky/</a>. 
+
      <p>
      In the following, you can see a very little introduction
      how CVS works and how you should and can use it, once you have gotten your
@@ -63,12 +65,10 @@
          Check the file ChangeLog for infrmation about source changes.
          If you upgrade a cvs version then always do a make clean before
          you get the next version from the cvs server. If you do not then
-         in some cases there will be problems. It is also possible to browse
-         the cvs repository to get individual files: in order to do that online, 
-	 go to <a href="http://husky.cvs.sourceforge.net.husky/">http://husky.cvs.sourceforge.net.husky/</a>. 
-         </p>
+         in some cases there will be problems.  It is also possible to browse
+         the cvs repository to get individual files.</p>
 
-     <li>Read-wrte access:
+     <li>Read-write access:
        <ul>
          <li>If you want to use the CVS server with write access (you is
          developer), register self into
