@@ -16,9 +16,9 @@
       href="http://sourceforge.net/projects/husky/">
       http://sourceforge.net/projects/husky/</a>.</p>
 
-      <p>If you are using Debian GNU/Linux take a look at <a href="debian/">
+      <p>If you are using Debian GNU/Linux take a look at&nbsp;<a href="debian.html">
       our Debian-Page.</a>. You could install the Husky-Programs using the normal 
-      and easy Debian-way (apt-get, dselect,...).</p>
+      and easy Debian-way (aptitude, apt-get, dselect, ...).</p>
 
       <p>If you are using BeOS take a look at <a href="http://walther.sf.net">
       Walther: Fidonet for BeOS</a> page.</p>
