@@ -21,10 +21,12 @@
       </blockquote>
 
       <h3>Latest development version</h3>
-      <blockquote>
-        <a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/lxtrack-current-latest.tar.gz">
-        CVS
-        </a>
+      <blockquote>      
+        <p>The development version is in&nbsp;<a href="cvs.html">CVS</a>,
+	 and is viewable online at 
+        <a href="http://husky.cvs.sourceforge.net/husky/lxtrack/">
+        http://husky.cvs.sourceforge.net/husky/lxtrack/</a></p>
+      
       </blockquote>
 
       <h3>Contacting the author</h3>
@@ -33,6 +35,6 @@
       </blockquote>
 
 
-      <small>Last update: 17/04/2000</small>
+      <small>Last update: 14 December 2006</small>
  
 #include "bottom.h"
