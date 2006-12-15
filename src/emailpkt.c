@@ -38,8 +38,9 @@
             <td>current release: EmailPkt 0.2-stable source code</td>
           </tr>
           <tr valign="top">
-            <td><a href="/cvs2/current/emailpkt-current-latest.tar.gz"><tt>emailpkt-current-latest.tar.gz</tt></a></td>
-            <td>unstable development cvs snapshot</td>
+            <td>Husky project CVS for&nbsp;<a href="http://husky.cvs.sourceforge.net/husky/emailpkt/">
+	    <tt>emailpkt</tt></a></td>
+            <td>development version is in&nbsp;<a href="cvs.html">CVS</a></td>
           </tr>
         </table>
       </blockquote>
@@ -53,6 +54,6 @@
       </blockquote>
 
 
-      <small>Last update: 24/08/2002</small>
+      <small>Last update: 14 December 2006</small>
 
 #include "bottom.h"
