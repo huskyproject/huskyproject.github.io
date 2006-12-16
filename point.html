@@ -4,20 +4,21 @@
 
 <html>
 <head><title>HUSKY - Portable Fido Software</title>
+  <meta name="keywords" content="Fidonet, FTN, Husky, BBS">
 
-<style type="text/css">
-<!--
-body {margin-top: 0; margin-left: 0;}
-a {text-decoration: none; font-weight: bold;}
-a:hover {color: #9999CC;}
-strong {color: #CC0000;}
-h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
-h3 {margin-top: 10; color: #333333;}
-h4 {margin-top: 0.1em; text-align: center;}
-}
+  <style type="text/css">
+  <!--
+  body {margin-top: 0; margin-left: 0;}
+  a {text-decoration: none; font-weight: bold;}
+  a:hover {color: #9999CC;}
+  strong {color: #CC0000;}
+  h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
+  h3 {margin-top: 10; color: #333333;}
+  h4 {margin-top: 0.1em; text-align: center;}
+  }
 
--->
-</style>
+  -->
+  </style>
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#666666">
@@ -32,7 +33,7 @@ h4 {margin-top: 0.1em; text-align: center;}
     </td>
 
     <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
-    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>                                
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
     <td align="center" bgcolor="#CCCCCC" valign="top">
       <h1>HUSKY</h1>
       <h4>Portable Fidosoft Project</h4>
@@ -54,6 +55,12 @@ h4 {margin-top: 0.1em; text-align: center;}
         <dd><a href="team.html">Husky Team</a>
         <dd><a href="cvs.html">CVS Server</a>
         <dd><a href="faq.html">FAQ</a>
+        <dt><b>Husky Versions</b>
+        <dd><a href="dl1.html">Overview</a>
+        <dd><a href="current.html">Current Husky</a>
+        <dd><a href="stable.html">Stable Husky</a>
+        <dd><a href="dl2.html">Download</a>
+        <dd><a href="debian.html">Debian Packages</a>
         <dt><b>What do I need?</b>
         <dd><a href="point.html">Point</a>
         <dd><a href="node.html">Node</a>
@@ -65,21 +72,22 @@ h4 {margin-top: 0.1em; text-align: center;}
         <dd><a href="hpt.html">hpt</a>
         <dt><b>Editor</b>
         <dd><a href="msged.html">msged</a>
-        <dt><b>Netmail trackers</b>
+        <dt><b>Netmail utilities</b>
         <dd><a href="cfroute.html">cfroute</a>
         <dd><a href="lxtrack.html">lxtrack</a>
         <dd><a href="ffma.html">ffma</a>
+        <dd><a href="bsopack.html">bsopack</a>
         <dt><b>Nodelist tools</b>
         <dd><a href="promknl.html">promknl</a>
         <dd><a href="nltools.html">nltools</a>
+        <dd><a href="fastlst.html">fastlst</a>
         <dt><a>Tickers</a>
         <dd><a href="htick.html">htick</a>
         <dd><a href="protick.html">protick</a>
         <dt><b>Gateway</b>
         <dd><a href="progate.html">progate</a>
         <dt><b>Mailers</b>
-        <dd><a href="pkt2mail.html">pkt2mail</a>
-        <dd><a href="mail2pkt.html">mail2pkt</a>
+        <dd><a href="emailpkt.html">emailpkt</a>
         <dd><a href="diskpoll.html">diskpoll</a>
         <dt><b>Tools</b>
         <dd><a href="sqpack.html">sqpack</a>
@@ -87,29 +95,123 @@ h4 {margin-top: 0.1em; text-align: center;}
         <dd><a href="gff.html">gff</a>
         <dd><a href="fidostat.html">fidostat</a>
         <dd><a href="huskypnt.html">huskypnt</a>
+        <dd><a href="huskmisc.html">huskmisc</a>
       </dl>
     </td>
     <td width="10" bgcolor="#CCCCCC"></td>
     <td width="10"></td>
     <td align="justify" valign="top">
 
-
+<!-- Navigation bar ends. -->
 
    <h3>What do I need for a point?</h3>
-     <blockquote>Under development...
-     </blockquote>
-     <blockquote>Information about what to download, how to compile the
+
+     <blockquote>
+     <p>Information about what to download, how to compile the
      software and where to find documentation can be found inside the huskybse
-     package (see in the Basic Files category).
+     package (see in the Basic Files category).</p>
+
+
+     <table border="0" cellspacing="5">
+        <tr>
+          <th colspan="2"><u>Required</u></th>
+          <th>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+          <th colspan="2"><u>Optional</u></th>
+        </tr>
+        <tr>
+          <td>huskybase v1.4</td>
+          <td>Base Package</td>
+          <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td>msged*</td>
+          <td>Message Editor</td>
+        </tr>
+        <tr><td>smapi v2.4</td>
+          <td>Message Base library</td>
+          <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td>htick</td>
+          <td>File Ticker</td>
+        </tr>
+        <tr>
+          <td>fidoconf v1.4</td>
+          <td>Husky Config library</td>
+          <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>hpt v1.4</td>
+          <td>Highly Portal Tosser</td>
+          <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+         </tr>
+     </table>
+
+     <p>* You can use any editor that can access the standard message base files;
+      however, msged is configured to work with the standard Husky set up.</p>
+
      </blockquote>
-    <small>Last update: 14/06/2000</small>
+
+      <blockquote>
+
+        <dl>
+            <dt>huskybase v1.4 </dt>
+            <dd>CVS Tag: <b>huskybse-1_4-stable</b></dd>
+            <dd>Archive: huskybse 1.4 RC4</dd>
+
+            <dt>smapi v2.4</dt>
+            <dd>CVS Tag: <b>smapi-2_4-stable</b></dd>
+            <dd>Archive: smapi 2.4 RC5</dd>
+
+            <dt>fidoconf v1.4</dt>
+            <dd>CVS Tag: <b>fidoconf-1_4-stable</b></dd>
+            <dd>Archives: fidoconf 1.4 RC5</dd>
+
+            <dt>hpt v1.4</dt>
+            <dd>CVS Tag: <b>hpt-1_4-stable</b></dd>
+            <dd>Archives: hpt 1.4 RC5</dd>
+
+        </dl>
+
+        <ul>
+          <li>Note: dependencies are described in 'VERSION' file (hpt/VERSION)</li>
+          <li>See 'README' file.</li>
+        </ul>
+
+        <p>Released versions of the archives are available at the project&nbsp;
+        <a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
+
+        <p>If you are a Debian GNU/Linux User you should take a look
+        <a href="debian.html">here.</a></p>
+
+        <p>All versions are available in the project&nbsp;<a href="cvs.html">CVS</a>&nbsp;repository,
+         which is also viewable online&nbsp;<a href="http://husky.cvs.sourceforge.net/husky">here</a>.</p>
+
+      </blockquote>
+
+
+
+    <small>Last update: 13 November 2006</small>
+
 
 <!-- This is the last part of every HTML here -->
     </td>
+  </tr>
+  <tr>
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
+     <td width="25%" bgcolor="#CCCCCC" valign="bottom" halign="center">
+        <a href="http://sourceforge.net">
+        <img src="http://sflogo.sourceforge.net/sflogo.php?group_id=1332&amp;type=2"
+        width="125" height="37" border="0" alt="SourceForge Logo"/></a>
+     </td>
+    <td width="10" bgcolor="#CCCCCC"></td>
+    <td width="10"></td>
+    <td>
+       &nbsp;
+    </td>
+
   </tr>
 </table>
 
 </body>
 </html>
-
-
