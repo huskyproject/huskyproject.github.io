@@ -19,7 +19,7 @@
 	  <td>huskybase v1.4</td>
 	  <td>Base Package</td>
 	  <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-	  <td>msged*</td>
+	  <td>msged<sup><small>1</small></sup></td>
 	  <td>Message Editor</td>
 	</tr>
         <tr><td>smapi v2.4</td>
@@ -44,9 +44,13 @@
 	 </tr>
      </table>
       
-     <p>* You can use any editor that can access the standard message base files; 
-      however, msged is configured to work with the standard Husky set up.</p>
-
+     <small>
+     <ol>Notes:
+        <li>You can use any editor that can access the standard message base files; 
+        however, msged is configured to work with the standard Husky set up.</li>
+     </ol>
+     </small>
+     
      </blockquote>
 
       <blockquote>
