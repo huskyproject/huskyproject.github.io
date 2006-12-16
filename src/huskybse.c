@@ -22,7 +22,7 @@
       </blockquote>
 
       <h3>Downloads</h3>
-      <blockquote>
+      <blockquote>   
 	<p>Archives of version v1.0 &amp; v1.4 available on the project&nbsp;
 	<a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
         
@@ -50,6 +50,7 @@
 
         </table>
 
+      </blockquote>
       <blockquote>
       <p>The following releases are available in CVS.
 	<ul>
