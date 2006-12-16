@@ -54,6 +54,7 @@
       <blockquote>
       <p>The following releases are available in CVS.
 	<ul>
+            <li>huskybse-1_4-stable</li>
             <li>huskybse-0.2-release</li>
             <li>huskybse-0.1b-release</li>
             <li>huskybse-0.1a-release</li>
@@ -66,6 +67,6 @@
       </blockquote>
 
 
-      <small>Last update: 13/12/2006</small>
+      <small>Last update: 15/12/2006</small>
 
 #include "bottom.h"
