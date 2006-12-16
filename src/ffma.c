@@ -41,8 +41,8 @@
           </tr>
           
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/ffma-current-latest.tar.gz"><tt>ffma-current-latest.tar.gz</tt></a></td>
-            <td>unstable development cvs snapshot</td>
+            <td><a href="http://husky.cvs.sourceforge.net/husky/ffma/"><tt>ffma current</tt></a></td>
+            <td>Available in&nbsp;<a href="cvs.html">cvs</a></td>
           </tr>
         </table>
       </blockquote>
@@ -51,7 +51,7 @@
       <blockquote>
         Sven Bursch<br>
         <a href="mailto:sb100@bursch.com">sb100@bursch.com</a><br>
-        2:2448/820<br>
+        <!-- 2:2448/820<br> -->
         See also the <a href="team.html">team page</a>.
       </blockquote>
 
