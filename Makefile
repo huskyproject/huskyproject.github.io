@@ -27,6 +27,8 @@ all:	index.html \
 	stable.html \
 	smapi.html \
 	dl2.html \
+	node.html \
+	point.html \
 	fidoconf.html \
 	hpt.html \
 	msged.html \
