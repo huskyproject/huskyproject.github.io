@@ -1,7 +1,7 @@
 #!/usr/bin/perl
-#  homepage/src/make-www-page.pl 
-#  Used to create a new version of an html page for the 
-# husky.sourceforge.net web site.
+#  homepage/src/make-www-page.pl - 22 December 2006
+#  Used to create a new version of an html page for the web site at
+# husky.sourceforge.net.
 #  Copyright (c) 2006 Robert James Clay 
 #  All Rights Reserved. This is free software;  you can redistribute
 #  it and/or modify it under the same terms as Perl itself.
@@ -12,14 +12,19 @@ use strict;
 use File::Slurp;
 use File::Spec;
 use HTML::Template;
+use Getopt::Std;
+
+use vars qw/ $opt_f $opt_h  /;
+
+# Parse command line
+# set basename of the content file to be generated 
+my $Content = &commandline();
 
 # Source files, *.htm & huskywww.tmpl, are assumed to be in the same current
 # directory as this script.
 my $SRCDIR = File::Spec->curdir();
 my $HTMLDIR = File::Spec->updir();
 
-# set this to the basename of the content file to be generated 
-my $Content = 'index';
 
 # get current time
 my ($sec, $min, $hour, $day, $mon, $year, $wday, $yday, $isdst) = localtime;
@@ -57,3 +62,39 @@ $template->output(print_to => *FH);
 # close the filehandle
 close(FH);
 
+exit(0);
+
+############################################
+# subroutines
+############################################
+
+############################################
+# Check for command line arguments, handle.
+############################################
+sub commandline {
+
+    getopts('f:h');
+
+    if ($opt_h) {
+        &help ();
+	exit(1);
+    }
+
+    if ($opt_f) {
+        return($opt_f);  # this is for the base name of the html file to be created
+    } else {
+         return("index");		# default html file to create
+    }
+
+}
+
+############################################
+# Help
+############################################
+sub help {
+    print "\nUsage:";
+    print "  make-www-page.pl [-f text|html ] [ -h ] ";
+    print "           -f   basename of html page to be created (defaults to 'index')\n";
+    print "           -h   This help.\n";
+    print "\n";
+}
