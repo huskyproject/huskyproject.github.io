@@ -1,6 +1,0 @@
-#robots.txt for husky.sourceforge.net
-
-User-agent: *
-Disallow: /cgi-bin
-
-
