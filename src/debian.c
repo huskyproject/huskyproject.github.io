@@ -1,4 +1,5 @@
 #include "top.h"
+#include "bodytop.h"
 #include "navbar.h"
 
       <a href="http://www.debian.org"><img align="left" src="debian.jpg" alt="Debian Logo" ></a>
