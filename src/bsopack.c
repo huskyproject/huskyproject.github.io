@@ -1,4 +1,5 @@
 #include "top.h"
+#include "bsopack.h"
 #include "bodytop.h"
 #include "navbar.h"
 
@@ -21,11 +22,29 @@
 
       <h3>Downloads</h3>
       <blockquote>
+
+	<p>Archives of the following are available on the project&nbsp;
+	<a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
+      
+      
         <table cellpadding="5" cellspacing="0" border="0">
+
           <tr valign="top">
-            <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/bsopack-current-latest.tar.gz"><tt>bsopack-current-latest.tar.gz</tt></a></td>
+            <td><tt>bsopack-1.4.0-rc5.tar.gz</tt></td>
+            <td>Source archive for bsopack v1.4 RC5</td>
+          </tr>
+
+          <tr valign="top">
+            <td><tt>bsopack-1.4.0-rc5-win32.zip</tt></td>
+            <td>Archive of bsopack v1.4 RC5 compiled for Win32</td>
+          </tr>
+
+<!--
+          <tr valign="top">
+            <td><tt>bsopack-current-latest.tar.gz</tt></td>
             <td>unstable development cvs snapshot</td>
           </tr>
+-->
         </table>
       </blockquote>
 
@@ -38,6 +57,6 @@
     </blockquote>
 
 
-      <small>Last update: 10/07/2001</small>
+      <small>Last update: 22 April 2006</small>
 
 #include "bottom.h"
