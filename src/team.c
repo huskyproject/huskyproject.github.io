@@ -213,7 +213,7 @@
 
       <tr>
         <td width="100" align="center" valign="center" rowspan="10">
-          <img src="" width="100" height="121" alt="No picture avaiable">
+          <img src="" width="100" height="121" alt="No picture available">
         </td>
         <td width="30" rowspan="10">
           &nbsp;
@@ -572,7 +572,7 @@
         <td><a href="mailto:jame@users.sourceforge.net">jame@users.sourceforge.net</a></td>
       <tr>
         <td><b>Homepage:</b></td>
-        <td><a href="http://robertjamesclay.homeip.net">robertjamesclay.homeip.net</td>
+        <td><a href="http://www.r-j-c.org">www.r-j-c.org</td>
       <tr>
         <td><b>CVS username:</b></td>
         <td>jame</td>
@@ -585,6 +585,6 @@
 
     <p>  
 
-    <small>Last update: 06/12/2006</small>
+    <small>Last update: 13 January 2007</small>
 
 #include "bottom.h"
