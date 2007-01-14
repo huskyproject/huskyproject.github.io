@@ -1,4 +1,5 @@
 #include "top.h"
+#include "sqpack.h"
 #include "bodytop.h"
 #include "navbar.h"
 

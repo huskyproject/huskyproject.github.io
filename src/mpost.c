@@ -1,4 +1,5 @@
 #include "top.h"
+#include "mpost.h"
 #include "bodytop.h"
 #include "navbar.h"
 

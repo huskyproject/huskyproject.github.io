@@ -14,9 +14,6 @@
 <html>
 <head>
   
-  <title>HUSKY - Portable Fido Software</title>
-  <meta name="keywords" content="Fidonet, FTN, Husky, BBS">
-
   <style type="text/css">
   <!--
   body {margin-top: 0; margin-left: 0;}

@@ -1,4 +1,5 @@
 #include "top.h"
+#include "faq.h"
 #include "bodytop.h"
 #include "navbar.h"
 

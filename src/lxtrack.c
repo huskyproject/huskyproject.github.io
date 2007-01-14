@@ -1,4 +1,5 @@
 #include "top.h"
+#include "lxtrack.h"
 #include "bodytop.h"
 #include "navbar.h"
 

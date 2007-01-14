@@ -1,4 +1,5 @@
 #include "top.h"
+#include "fidoconf.h"
 #include "bodytop.h"
 #include "navbar.h"
 
