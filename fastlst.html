@@ -1,24 +1,30 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 
 <!-- This is the first part of every page here -->
 
 <html>
-<head><title>HUSKY - Portable Fido Software</title>
+<head>
 
-<style type="text/css">
-<!--
-body {margin-top: 0; margin-left: 0;}
-a {text-decoration: none; font-weight: bold;}
-a:hover {color: #9999CC;}
-strong {color: #CC0000;}
-h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
-h3 {margin-top: 10; color: #333333;}
-h4 {margin-top: 0.1em; text-align: center;}
-}
+  <style type="text/css">
+  <!--
+  body {margin-top: 0; margin-left: 0;}
+  a {text-decoration: none; font-weight: bold;}
+  a:hover {color: #9999CC;}
+  strong {color: #CC0000;}
+  h1 {margin-top: 0.5em; margin-bottom: 0.1em; text-align: center; color: #000066;}
+  h3 {margin-top: 10; color: #333333;}
+  h4 {margin-top: 0.1em; text-align: center;}
+  }
 
--->
-</style>
+  -->
+  </style>
 
+
+  <title>HUSKY - fastlst</title>
+  <meta name="keywords" content="Fidonet, FTN, Husky, BBS, nodelist">
+
+
+<!-- start of bodytop -->
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#666666">
 
@@ -32,7 +38,7 @@ h4 {margin-top: 0.1em; text-align: center;}
     </td>
 
     <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
-    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>                                
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
     <td align="center" bgcolor="#CCCCCC" valign="top">
       <h1>HUSKY</h1>
       <h4>Portable Fidosoft Project</h4>
@@ -59,6 +65,10 @@ h4 {margin-top: 0.1em; text-align: center;}
         <dd><a href="current.html">Current Husky</a>
         <dd><a href="stable.html">Stable Husky</a>
         <dd><a href="dl2.html">Download</a>
+        <dd><a href="debian.html">Debian Packages</a>
+        <dt><b>What do I need?</b>
+        <dd><a href="point.html">Point</a>
+        <dd><a href="node.html">Node</a>
         <dt><b>Basic Files</b>
         <dd><a href="huskybse.html">huskybse</a>
         <dd><a href="smapi.html">smapi</a>
@@ -67,10 +77,11 @@ h4 {margin-top: 0.1em; text-align: center;}
         <dd><a href="hpt.html">hpt</a>
         <dt><b>Editor</b>
         <dd><a href="msged.html">msged</a>
-        <dt><b>Netmail trackers</b>
+        <dt><b>Netmail utilities</b>
         <dd><a href="cfroute.html">cfroute</a>
         <dd><a href="lxtrack.html">lxtrack</a>
         <dd><a href="ffma.html">ffma</a>
+        <dd><a href="bsopack.html">bsopack</a>
         <dt><b>Nodelist tools</b>
         <dd><a href="promknl.html">promknl</a>
         <dd><a href="nltools.html">nltools</a>
@@ -96,51 +107,64 @@ h4 {margin-top: 0.1em; text-align: center;}
     <td width="10"></td>
     <td align="justify" valign="top">
 
-
+<!-- Navigation bar ends. -->
 
       <h3>What is it?</h3>
       <blockquote>
-        <strong>Fastlst</strong> is a Version 7 Plus (V7+) nodelist index 
-	  compiler for use with e.g. 
-	  <a href="http://btxe.sourceforge.net/">BinkleyTerm</a>. 
-	  It does not (yet :-) support the fidoconfig file format.
+        <strong>Fastlst</strong> is a Version 7 Plus (V7+) nodelist index
+          compiler for use with e.g.
+          <a href="http://btxe.sourceforge.net/">BinkleyTerm</a>.
+          It does not support the fidoconfig file format.
       </blockquote>
 
       <h3>What does it need?</h3>
       <blockquote>
-        Operating systems tested:
+        Operating systems:
         <ul>
-	<li>Linux/i386</li>
-	<li>FreeBSD/i386</li>
-	<li>Cygwin/i386</li>
-        <li>Supposed to work on all unix-like systems. Please report success or failure.
-	  There is no release-version at this time, only a -stable and a
-	  -current branch.</li>
+          <li>Only tested on Linux/i386, but supposed to work on all unix
+            systems. Please report success or failure.</li>
         </ul>
         Dependencies:
         <ul>
-          <li>fastlst requires huskylib, smapi and fidoconf.</li>
-          <li><a href="http://husky.sourceforge.net/cvs2/stable/fastlst-stable-latest.tar.gz"><tt>fastlst-stable</tt></a> requires the <A href="http://husky.sourceforge.net/cvs2/stable/" name="stable branch">-stable</A> versions of the libs.</li>
-	  <li><a href="http://husky.sourceforge.net/cvs2/current/fastlst-current-latest.tar.gz"><tt>fastlst-current</tt></a> requires the <A href="http://husky.sourceforge.net/cvs2/current/" name="current branch">-current</A> versions of the libs.</li>
+          <li>fastlst-current requires smapi-current from the same day</li>
+          <li>fastlst 2.0.3 requires smapi 1.6.4</li>
         </ul>
       </blockquote>
 
       <h3>Downloads</h3>
       <blockquote>
-        <table cellpadding="5" cellspacing="0" border="0">
-          <tr valign="top">
-            <td><a href="http://husky.sourceforge.net/cvs2/stable/fastlst-stable-latest.tar.gz"><tt>fastlst-stable</tt></a></td>
-            <td>fastlst 2.0.3 (stable branch) source code</td>
-          </tr>
-          <tr valign="top">
-            <td>n/a</td>
-            <td>fastlst binaries</td>
-          </tr>
-          <tr valign="top">
-            <td><a href="http://husky.sourceforge.net/cvs2/current/fastlst-current-latest.tar.gz"><tt>fastlst-current</tt></a></td>
-            <td>fastlst 2.0.4 (current branch) source code</td>
-          </tr>
-        </table>
+        <p>We do not currently have binaries or archives available here at Sourceforge for fastlst; it is, however, available from the CVS repository here.</p>
+          <dl>
+
+
+            <dt>fastlst 2.0.4 (current release) source code</dt>
+            <dd><a href="http://husky.cvs.sourceforge.net/husky/fastlst?pathrev=fastlst-2_0_4-stable"><tt>http://husky.cvs.sourceforge.net/husky/fastlst?pathrev=fastlst-2_0_4-stable</tt></a></dd>
+            <dd>&nbsp;</dd>
+
+
+            <dt>fastlst 2.0.4 (current release) binaries</dt>
+            <dd>n/a</dd>
+            <dd>&nbsp;</dd>
+
+            <dt>fastlst 2.0.3 source code</dd>
+            <dd><a href="http://husky.cvs.sourceforge.net/husky/fastlst?pathrev=fastlst-2_0_3"><tt>http://husky.cvs.sourceforge.net/husky/fastlst?pathrev=fastlst-2_0_3</tt></a></dd>
+            <dd>&nbsp;</dd>
+
+
+            <dt>fastlst 2.0.3 binaries</dt>
+            <dd>n/a</dd>
+            <dd>&nbsp;</dd>
+
+
+            <dt>unstable development cvs snapshot</dt>
+            <dd><a href="http://husky.cvs.sourceforge.net/husky/fastlst?pathrev=HEAD"><tt>http://husky.cvs.sourceforge.net/husky/fastlst?pathrev=HEAD</tt></a></dd>
+            <dd>&nbsp;</dd>
+
+
+          </dl>
+
+
+
       </blockquote>
 
 
@@ -148,18 +172,31 @@ h4 {margin-top: 0.1em; text-align: center;}
 
       <h3>Contacting the author</h3>
       <blockquote>
-        Maintained by Gerrit K&#252;hn et al., see <A href="http://sourceforge.net/project/memberlist.php?group_id=1332" name="members">here</A>.
+        Maintained by Gerrit K&#252;hn et al. See the&nbsp;<a href="team.html">team page</a>.
       </blockquote>
 
 
-      <small>Last update: 12/V/2004</small>
+      <small>Last update: 3 February 2007</small>
+
 
 <!-- This is the last part of every HTML here -->
     </td>
+  </tr>
+  <tr>
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
+     <td width="25%" bgcolor="#CCCCCC" valign="bottom" halign="center">
+        <a href="http://sourceforge.net">
+        <img src="http://sflogo.sourceforge.net/sflogo.php?group_id=1332&amp;type=2"
+        width="125" height="37" border="0" alt="SourceForge Logo"/></a>
+     </td>
+    <td width="10" bgcolor="#CCCCCC"></td>
+    <td width="10"></td>
+    <td>
+       &nbsp;
+    </td>
+
   </tr>
 </table>
 
 </body>
 </html>
-
-
