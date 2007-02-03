@@ -48,10 +48,10 @@ all:	index.html \
 	fidostat.html \
 	huskypnt.html \
 	faq.html \
+	fastlst.html \
 	huskybse.html \
 	huskmisc.html \
         bsopack.html
-#	fastlst.html
 
 %.html: $(SRCDIR)%.c
 	$(CC) -E -P -C -o $*.html $(SRCDIR)$*.c
