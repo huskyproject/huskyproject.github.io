@@ -56,8 +56,8 @@ all:	index.html \
 %.html: $(SRCDIR)%.c
 	$(CC) -E -P -C -o $*.html $(SRCDIR)$*.c
 	
-#clean:
-#	-$(RM) $(RMOPT) *.html
+clean:
+	-$(RM) $(RMOPT) *.html
 	
 distclean: clean
 
