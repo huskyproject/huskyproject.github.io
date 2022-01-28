@@ -17,7 +17,7 @@
         Dependencies:
         <ul>
            <li>sqpack-current requires fidoconfig-current, smapi-current and huskybse-current from the same day.</li>
-           <li>sqpack-1.1.0 requires fidoconfig 0.10 and smapi 1.6.4 and huskybse 0.1.</li> 
+           <li>sqpack-1.1.0 requires fidoconfig 0.10 and smapi 1.6.4 and huskybse 0.1.</li>
            <li>sqpack-1.0.3 requires fidoconfig 0.9 and smapi 1.6.2.</li>
         </ul>
       </blockquote>
@@ -28,7 +28,7 @@
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0b-src.tar.gz"><tt>sqpack-1.1.0b-src.tar.gz</tt></a>
             <br><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/sqpack-1.1.0b-src.zip"><tt>sqpack-1.1.0b-src.zip</tt></a>
-            </td>      
+            </td>
             <td>current release: sqpack 1.1.0b</td>
           </tr>
           <tr valign="top">

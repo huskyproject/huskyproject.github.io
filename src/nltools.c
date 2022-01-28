@@ -6,7 +6,7 @@
       <h3>What is it?</h3>
       <blockquote>
         <strong>nltools</strong> contains tools for keeping your nodelists up to
-	date, and for compiling a <tt>fidouser.lst</tt> file (but not a V7 index).
+        date, and for compiling a <tt>fidouser.lst</tt> file (but not a V7 index).
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -29,7 +29,7 @@
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1a-src.tar.gz"><tt>nltools-1.1a-src.tar.gz</tt></a><br>
                 <a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/nltools-1.1a-src.zip"><tt>nltools-1.1a-src.zip</tt></a>
-            </td>   
+            </td>
             <td>current release: nltools 1.1a-stable source code</td>
           </tr>
           <tr valign="top">

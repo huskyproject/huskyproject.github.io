@@ -7,7 +7,7 @@
       <blockquote>
         <strong>fidoconf</strong> is a library used to acess the
         <quot>fidoconfig</quot> style configuration file. This file
-	keeps the settings for most of the husky projects. The package also
+        keeps the settings for most of the husky projects. The package also
         contains some utilities for verifying the configuration file syntax
         or for converting it to other common formats.
       </blockquote>
@@ -21,7 +21,7 @@
         Dependencies:
         <ul>
           <li>fidoconf-current requries smapi-current and huskybse-current from the same day</li>
-	<li>fidoconfig 0.10-stable requires smapi 1.6.4-stable and huskybse-0.1</li>
+        <li>fidoconfig 0.10-stable requires smapi 1.6.4-stable and huskybse-0.1</li>
           <li>fidoconfig 0.9 requires smapi 1.6.2</li>
         </ul>
       </blockquote>
@@ -31,7 +31,7 @@
         <table cellpadding="5" cellspacing="0" border="0">
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de:8080/fidosoft.husky/fidoconf-0.10c-src.tar.gz"><tt>fidoconf-0.10c-src.tar.gz</tt></a>
-	    </td>
+            </td>
             <td>current release: fidoconfig 0.10c-stable source code</td>
           </tr>
           <tr valign="top">

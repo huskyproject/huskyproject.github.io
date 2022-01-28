@@ -23,10 +23,10 @@
       <h3>Downloads</h3>
       <blockquote>
 
-	<p>Archives of the following are available on the project&nbsp;
-	<a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
-      
-      
+        <p>Archives of the following are available on the project&nbsp;
+        <a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
+
+
         <table cellpadding="5" cellspacing="0" border="0">
 
           <tr valign="top">

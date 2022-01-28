@@ -24,11 +24,11 @@
       </blockquote>
 
       <h3>Downloads</h3>
-      <blockquote>   
-	<p>Archives of version v1.0 &amp; v1.4 available on the project&nbsp;
-	<a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
-        
-	<table cellpadding="5" cellspacing="0" border="0">
+      <blockquote>
+        <p>Archives of version v1.0 &amp; v1.4 available on the project&nbsp;
+        <a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page.</p>
+
+        <table cellpadding="5" cellspacing="0" border="0">
 
           <tr valign="top">
             <td><b>huskybase-1.4-tar.gz</td>
@@ -55,17 +55,17 @@
       </blockquote>
       <blockquote>
       <p>The following releases are available in CVS.
-	<ul>
+        <ul>
             <li>huskybse-1_4-stable</li>
             <li>huskybse-0.2-release</li>
             <li>huskybse-0.1b-release</li>
             <li>huskybse-0.1a-release</li>
-	</ul>
+        </ul>
       </blockquote>
 
       <h3>Contacting the authors</h3>
       <blockquote>
-        Maintained by Sascha M. Silbe  et. al.  See the&nbsp;<a href="team.html">team page</a>.
+        Maintained by Sascha M. Silbe et. al. See the&nbsp;<a href="team.html">team page</a>.
       </blockquote>
 
 

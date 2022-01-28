@@ -25,7 +25,7 @@
       <blockquote>
         <p>A perl version of gff using ncurses is in CVS, which can be viewed online at
         <a href="http://husky.cvs.sourceforge.net/husky/gff/">
-	http://husky.cvs.sourceforge.net/husky/gff/
+        http://husky.cvs.sourceforge.net/husky/gff/
         </a>. </p>
       </blockquote>
 
@@ -36,5 +36,5 @@
 
 
       <small>Last update: 14/12/2006</small>
- 
+
 #include "bottom.h"

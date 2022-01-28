@@ -6,8 +6,8 @@
       <h3>What is it?</h3>
       <blockquote>
         <strong>diskpoll</strong> exchanges mail and files between FTN systems that
-	have mutual access to the filesystems where their outbound directories
-	are stored. For use with sysop points, downlinks in the same LAN as their uplink, gateways etc.
+        have mutual access to the filesystems where their outbound directories
+        are stored. For use with sysop points, downlinks in the same LAN as their uplink, gateways etc.
       </blockquote>
 
       <h3>What does it need?</h3>

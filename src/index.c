@@ -15,10 +15,10 @@
 
      <h3>Latest News</h3>
       <blockquote>
-	<ul>
-	  <li>Latest File&nbsp;<a href="http://sourceforge.net/project/showfiles.php?group_id=1332">Releases</a>.</li>
-	  <li>Husky Project&nbsp;<a href="http://sourceforge.net/news/?group_id=1332">News</a>.</li>
-	</ul>	
+        <ul>
+          <li>Latest File&nbsp;<a href="http://sourceforge.net/project/showfiles.php?group_id=1332">Releases</a>.</li>
+          <li>Husky Project&nbsp;<a href="http://sourceforge.net/news/?group_id=1332">News</a>.</li>
+        </ul>
       </blockquote>
 
       <h3>Fido-area and mailinglist</h3>
@@ -32,7 +32,7 @@
         <a href="http://lists.sourceforge.net/mailman/listinfo/husky-discuss">lists.sourceforge.net</a>
         and write your articles to <a href="mailto:husky-discuss@lists.sourceforge.net">husky-discuss@lists.sourceforge.net</a>.
         There is also a FTN fileecho called fidosoft.husky. It carries release source
-        archives of the husky project software;  i.E.,  none of the latest files are hatched there, only
+        archives of the husky project software; i.E., none of the latest files are hatched there, only
         stable releases.
       </blockquote>
 

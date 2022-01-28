@@ -41,14 +41,12 @@
             <td><a href="http://www.physcip.uni-stuttgart.de/tobi/msged/archive/msge601d.zip"><tt>msge601d.zip</tt></a></td>
             <td>newest release, DOS version</td>
           </tr>
-
-<!--				9 Sep 2007 - not certain where this is still avaiable  
+<!-- 9 Sep 2007 - not certain where this is still avaiable
           <tr valign="top">
             <td><a href="http://www.physcip.uni-stuttgart.de/tobi/bin/MSGTE5_S.ZIP"><tt>MSGTE5_S.ZIP</tt></a></td>
             <td>very old release: msged te 05 source code</td>
           </tr>
 -->
-	  
           <tr valign="top">
             <td><a href="http://cvs.physcip.uni-stuttgart.de/cvs2/current/msged-current-latest.tar.gz"><tt>msged-current-latest.tar.gz</tt></a></td>
             <td>unstable development cvs snapshot</td>
@@ -60,14 +58,12 @@
         </table>
       </blockquote>
 
-
       <h3>Contacting the author</h3>
       <blockquote>
         Maintained by Tobias Ernst. See the <a href="team.html">team page</a>.
         Binary releases and more information about Msged TE can be obtained at the
         <a href="http://www.physcip.uni-stuttgart.de/tobi/msged">msged homepage</a>.
       </blockquote>
-
 
       <small>Last update: 9 September 2007</small>
 
