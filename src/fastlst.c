@@ -5,10 +5,10 @@
 
       <h3>What is it?</h3>
       <blockquote>
-        <strong>Fastlst</strong> is a Version 7 Plus (V7+) nodelist index 
-	  compiler for use with e.g. 
-	  <a href="http://btxe.sourceforge.net/">BinkleyTerm</a>. 
-	  It does not support the fidoconfig file format.
+        <strong>Fastlst</strong> is a Version 7 Plus (V7+) nodelist index
+          compiler for use with e.g.
+          <a href="http://btxe.sourceforge.net/">BinkleyTerm</a>.
+          It does not support the fidoconfig file format.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -16,7 +16,7 @@
         Operating systems:
         <ul>
           <li>Only tested on Linux/i386, but supposed to work on all unix
-	    systems. Please report success or failure.</li>
+            systems. Please report success or failure.</li>
         </ul>
         Dependencies:
         <ul>
@@ -27,7 +27,7 @@
 
       <h3>Downloads</h3>
       <blockquote>
-	<p>We do not currently have binaries or archives available here at Sourceforge for fastlst;  it is, however, available from the CVS repository here.</p>
+        <p>We do not currently have binaries or archives available here at Sourceforge for fastlst; it is, however, available from the CVS repository here.</p>
           <dl>
 
 
@@ -58,7 +58,7 @@
           </dl>
 
 
-	
+
       </blockquote>
 
 

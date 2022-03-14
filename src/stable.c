@@ -21,7 +21,7 @@
       of the current Husky snapshot it stems from, followed by the word
       <tt>release</tt>. Example: <tt>msged 6.0.0-release</tt></p>
 
-      <p>Starting in Fall 2001, the minor (second) version number of all stable branches will be divisible by 2; I.E.  0,2,4 and so on.
+      <p>Starting in Fall 2001, the minor (second) version number of all stable branches will be divisible by 2; I.E. 0,2,4 and so on.
       The stable branch as such is characterised by this second version number.</p>
 
       <p>Before the software is released, it has the same version number as the release, but the suffix is <tt>-stable</tt> instead of <tt>-release</tt>.</p>
@@ -35,16 +35,16 @@
       Example: <tt>msged 6.0.1-release</tt>. </p>
 
       <p>Generally, upgrading between software that differs only in
-      the patch version number;  I.E., software from the same stable
-      branch (same second version number) is straightforward:  Just
-      plug the new executable in and go ahead.  There will be no
+      the patch version number; I.E., software from the same stable
+      branch (same second version number) is straightforward: Just
+      plug the new executable in and go ahead. There will be no
       linkage problems and no behaviour changes, only bug fixes.</p>
 
       <p>You may even upgrade to a new version of a dynamic library
       without having to recompile the software that uses this
       library (supposing you are using dynamic libraries / shared
-      objects of course).  E.g., you may upgrade from <tt>smapi
-      2.0.0-release</tt> to <tt>smapi 2.0.1-release</tt>.  That is
+      objects of course). E.g., you may upgrade from <tt>smapi
+      2.0.0-release</tt> to <tt>smapi 2.0.1-release</tt>. That is
       why the branch is called stable.<p>
 
       <p>To clarify it, when a <i>new</i> stable branch is created, e.g. <tt>

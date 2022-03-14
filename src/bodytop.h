@@ -1,4 +1,5 @@
 
+
 <!-- start of bodytop -->
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#666666">
@@ -13,7 +14,7 @@
     </td>
 
     <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
-    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>                                
+    <td width="10" bgcolor="#CCCCCC">&nbsp;</td>
     <td align="center" bgcolor="#CCCCCC" valign="top">
       <h1>HUSKY</h1>
       <h4>Portable Fidosoft Project</h4>

@@ -6,9 +6,9 @@
       <h3>What is it?</h3>
       <blockquote>
         <strong>protick</strong> reads TIC-files and processes the associated
-	files following the information in the TIC. ProTick is not actively
-	developed anymore (though it is rather stable), please use htick 
-	instead.
+        files following the information in the TIC. ProTick is not actively
+        developed anymore (though it is rather stable), please use htick
+        instead.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -27,7 +27,7 @@
       <h3>Latest development version</h3>
       <blockquote>
         <p>The development version is in&nbsp;<a href="cvs.html">CVS</a>,
-	 and is viewable online at 
+         and is viewable online at
         <a href="http://husky.cvs.sourceforge.net/husky/protick/">
         http://husky.cvs.sourceforge.net/husky/protick/</a></p>
 
@@ -40,5 +40,5 @@
 
 
       <small>Last update: 14/12/2006</small>
- 
+
 #include "bottom.h"

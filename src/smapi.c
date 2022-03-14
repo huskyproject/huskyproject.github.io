@@ -6,10 +6,10 @@
       <h3>What is SMAPI?</h3>
       <blockquote>
         <p><strong>Smapi</strong> is a modified message API for accesing *.MSG, Squish and Jam
-	message base files. It is required for all other Husky software. </p>
-	<p> As the source only builds a single library, there may be no binary package of smapi for your platform.
-	 In that case, Husky does not support shared libraries on your platform and you will not need a smapi
-	  package at all, because the binaries of the other projects will be stand-alone binaries.
+        message base files. It is required for all other Husky software. </p>
+        <p> As the source only builds a single library, there may be no binary package of smapi for your platform.
+         In that case, Husky does not support shared libraries on your platform and you will not need a smapi
+          package at all, because the binaries of the other projects will be stand-alone binaries.
       </blockquote>
 
       <h3>What does it need?</h3>
@@ -30,8 +30,8 @@
 
         <p>Archives of the older versions v1.0 &amp; v1.4 are available on the project&nbsp;
           <a href="http://sourceforge.net/project/showfiles.php?group_id=1332">downloads</a>&nbsp;page,
-	   as are the following more recent versions:
-	  .</p>
+           as are the following more recent versions:
+          .</p>
 
         <table cellpadding="3" cellspacing="0" border="0">
 
@@ -49,7 +49,7 @@
 
           <tr valign="top">
             <td><tt>smapi-2.2.4.tar.gz</tt></td>
-            <td>30 May 2003</td> 
+            <td>30 May 2003</td>
             <td>smapi 2.2.4 Release source code</td>
           </tr>
 
@@ -63,8 +63,8 @@
 
 
         <p> Note also that development & other versions of the SMAPI files may be found in the
-	 project&nbsp;<a href="cvs.html">CVS</a>&nbsp;repository, which is also viewable
-	  online&nbsp;<a href="http://husky.cvs.sourceforge.net/husky">here</a>.</p>
+         project&nbsp;<a href="cvs.html">CVS</a>&nbsp;repository, which is also viewable
+          online&nbsp;<a href="http://husky.cvs.sourceforge.net/husky">here</a>.</p>
 
       </blockquote>
 

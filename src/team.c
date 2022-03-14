@@ -258,7 +258,7 @@
 
      <tr>
         <td width="100" align="center" valign="center" rowspan="8">
-          <img src="max.jpg" width="100"  height="100">
+          <img src="max.jpg" width="100" height="100">
         </td>
         <td width="30" rowspan="8">
           &nbsp;
@@ -376,7 +376,7 @@
 
      <tr>
         <td width="100" align="center" valign="center" rowspan="10">
-          <img src="sascha.jpg" width="100"  height="100">
+          <img src="sascha.jpg" width="100" height="100">
         </td>
         <td width="30" rowspan="10">
           &nbsp;
@@ -583,7 +583,7 @@
 
     </table>
 
-    <p>  
+    <p>
 
     <small>Last update: 13 January 2007</small>
 

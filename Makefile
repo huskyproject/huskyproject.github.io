@@ -6,12 +6,15 @@
 # can install compiled site into web server document root dir: 
 # run 'make install'.
 #
-# Use huskymak.cfg for DIRSEP, CC and INSTALL macro
+# Use huskymak.cfg for DIRSEP and INSTALL macro
 
 include ../huskymak.cfg
 
 # Location of the http server document root for husky site
 HOMEPAGEDIR	= /home/groups/h/hu/husky/htdocs
+
+# Preprocessor for building html files
+PP		= gpp
 
 # Source files dir
 SRCDIR		= src$(DIRSEP)
@@ -54,11 +57,11 @@ all:	index.html \
         bsopack.html
 
 %.html: $(SRCDIR)%.c
-	$(CC) -E -P -C -o $*.html $(SRCDIR)$*.c
-	
+	$(PP) -o $*.html $(SRCDIR)$*.c
+
 clean:
 	-$(RM) $(RMOPT) *.html
-	
+
 distclean: clean
 
 install:

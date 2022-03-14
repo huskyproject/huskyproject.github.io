@@ -6,7 +6,7 @@
    <h3>History of the Husky Project</h3>
      <blockquote>Under development...
      </blockquote>
-          
+
    <h3>Older news</h3>
     <table summary="News" align="center" width="80%" border="1" bordercolor="#CCCCCC" cellpadding="5" cellspacing="1">
 
@@ -23,7 +23,7 @@
            <li> fidoconfig-0.14.1
            <li> bsopack-0.2.1
            <li> hpt-1.2.1
-           <li> hptkill-1.10.1 
+           <li> hptkill-1.10.1
            <li> hptsqfix-1.2.1
            <li> hpucode-1.2.1
            <li> htick-1.0.1
@@ -46,7 +46,7 @@
            Now avaiable here:
            <li>HPT FAQ (russian only, sorry)
            <li>HPT with Perl support FAQ (english, russian)
-           <li>Novice developers how-to  (english, russian)
+           <li>Novice developers how-to (english, russian)
         </td>
 
       </tr><tr>
@@ -143,21 +143,21 @@
           <strong>04/01/2001</strong>
         </td>
         <td align="justify">
-	  Maintainance release: hpt 0.9.7d, fidoconfig 0.10c
+          Maintainance release: hpt 0.9.7d, fidoconfig 0.10c
         </td>
       </tr><tr>
         <td align="center" valign="top">
           <strong>03/01/2001</strong>
         </td>
         <td align="justify">
-	  Release: <a href="fastlst.html">Fastlst</a> 2.0.3
+          Release: <a href="fastlst.html">Fastlst</a> 2.0.3
         </td>
       </tr><tr>
         <td align="center" valign="top">
           <strong>31/10/2000</strong>
         </td>
         <td align="justify">
-           Maintainance release of hpt 0.9.7c, htick 0.9a, sqpack 1.1.0b, fidoconfig 0.10b, smapi 1.6.4b and huskybse 0.1b with lots of JAM and  other bug fixes.
+           Maintainance release of hpt 0.9.7c, htick 0.9a, sqpack 1.1.0b, fidoconfig 0.10b, smapi 1.6.4b and huskybse 0.1b with lots of JAM and other bug fixes.
         </td>
       </tr><tr>
         <td align="center" valign="top">
@@ -215,4 +215,4 @@
     </table>
     <small>Last update: 13/12/2006</small>
 
-#include "bottom.h"    
+#include "bottom.h"

@@ -24,7 +24,7 @@
       <h3>Latest development version</h3>
       <blockquote>
         <p>The latest development version is in&nbsp;<a href="cvs.html">CVS</a>,
-	 and is viewable online at 
+         and is viewable online at
         <a href="http://husky.cvs.sourceforge.net/husky/fidostat/">
         http://husky.cvs.sourceforge.net/husky/fidostat/</a></p>
 
@@ -37,5 +37,5 @@
 
 
       <small>Last update: 14/12/2006</small>
- 
+
 #include "bottom.h"
